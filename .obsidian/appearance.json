@@ -1,0 +1,10 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "ITS-Dataview-Cards",
+    "ITS-Image-Adjustments",
+    "vault-colors"
+  ]
+}
