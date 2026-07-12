@@ -1,0 +1,41 @@
+{
+  "sources": {
+    ".raw/Catechismo della Dottrina Cristiana (detto di S. Pio X).pdf": {
+      "hash": "a0475a79bbc17ea59179802d7818401f",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Catechismo della Dottrina Cristiana (S. Pio X).md",
+        "wiki/entities/Pio X.md",
+        "wiki/entities/Chiesa Cattolica.md",
+        "wiki/concepts/Credo (Simbolo Apostolico).md",
+        "wiki/concepts/Sacramenti.md",
+        "wiki/concepts/Comandamenti di Dio (Decalogo).md",
+        "wiki/concepts/Peccato.md",
+        "wiki/concepts/Grazia.md",
+        "wiki/concepts/Virtù Teologali e Cardinali.md",
+        "wiki/concepts/Precetti della Chiesa.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/concepts/_index.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md"
+      ]
+    }
+  },
+  "address_map": {
+    "wiki/sources/Catechismo della Dottrina Cristiana (S. Pio X).md": "c-000017",
+    "wiki/entities/Pio X.md": "c-000018",
+    "wiki/entities/Chiesa Cattolica.md": "c-000019",
+    "wiki/concepts/Credo (Simbolo Apostolico).md": "c-000020",
+    "wiki/concepts/Sacramenti.md": "c-000021",
+    "wiki/concepts/Comandamenti di Dio (Decalogo).md": "c-000022",
+    "wiki/concepts/Peccato.md": "c-000023",
+    "wiki/concepts/Grazia.md": "c-000024",
+    "wiki/concepts/Virtù Teologali e Cardinali.md": "c-000025",
+    "wiki/concepts/Precetti della Chiesa.md": "c-000026"
+  }
+}

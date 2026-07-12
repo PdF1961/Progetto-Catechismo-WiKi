@@ -11,14 +11,10 @@
             "id": "511e362e88dc4e50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/concepts/Teoria dei Sistemi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Teoria dei Sistemi"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -168,8 +164,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -205,9 +201,7 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-kanban:Crea nuova bacheca": false,
-      "marp-slides:Show Slide Preview": false,
-      "slides-extended:Show slide preview": false
+      "obsidian-kanban:Crea nuova bacheca": false
     }
   },
   "active": "511e362e88dc4e50",

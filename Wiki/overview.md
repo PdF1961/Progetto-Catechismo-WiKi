@@ -1,8 +1,8 @@
 ---
 type: overview
 title: Wiki Overview
-created: null
-updated: null
+created: 2026-07-12
+updated: 2026-07-12
 tags:
   - meta
   - overview
@@ -21,7 +21,7 @@ Navigation: [[index]] | [[hot]] | [[log]]
 
 ## Scopo
 
-<!-- Descrivi l'obiettivo di questo wiki e il dominio di conoscenza -->
+Base di conoscenza persistente sul magistero della Chiesa Cattolica: encicliche e documenti pontifici (Leone XIII → Leone XIV), i documenti dei Concili Vaticano I e II, i catechismi ufficiali, e opere di commento (es. Amerio, *Iota Unum*). L'obiettivo è costruire una mappa navigabile della dottrina cattolica e del suo sviluppo storico, con cross-reference tra fonti, entità (papi, concili, istituzioni) e concetti dottrinali ricorrenti.
 
 ---
 
@@ -54,6 +54,7 @@ wiki/
 
 ## Stato Corrente
 
-- Pages totali: 0
-- Sources ingested: 0
-- Ultimo aggiornamento: —
+- Pages totali: 18
+- Sources ingested: 2 (1 template research page + [[Catechismo della Dottrina Cristiana (S. Pio X)]])
+- Ultimo aggiornamento: 2026-07-12
+- Sources rimanenti in `.raw/`: 150 (documenti pontifici, conciliari, catechismi, *Iota Unum*) — vedi [[hot]] per lo stato del batch ingest

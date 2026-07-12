@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Wiki Index
-updated: null
+updated: 2026-07-12
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: — | Total pages: 0 | Sources ingested: 0
+Last updated: 2026-07-12 | Total pages: 18 | Sources ingested: 2
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Source-First Synthesis]] — provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]] — wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
 
+### Dottrina Cattolica
+
+- [[Credo (Simbolo Apostolico)]] — i due misteri principali della fede e la struttura del Simbolo apostolico (status: developing)
+- [[Sacramenti]] — i sette sacramenti, materia/forma/ministro, sacramenti dei morti/dei vivi (status: developing)
+- [[Comandamenti di Dio (Decalogo)]] — i dieci comandamenti, cosa ordinano e cosa proibiscono (status: developing)
+- [[Peccato]] — peccato originale e attuale, mortale e veniale (status: developing)
+- [[Grazia]] — grazia santificante, sacramentale, attuale (status: developing)
+- [[Virtù Teologali e Cardinali]] — fede, speranza, carità; prudenza, giustizia, fortezza, temperanza (status: developing)
+- [[Precetti della Chiesa]] — i cinque precetti generali che applicano il Decalogo (status: developing)
+
 ---
 
 ## Entities
@@ -50,12 +60,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[rvk7895-llm-knowledge-bases]] — 3-depth query system, Marp slides, parallel deep research (status: current)
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
+- [[Pio X]] — Papa (1903–1914), promotore del catechismo unico per la diocesi di Roma (status: developing)
+- [[Chiesa Cattolica]] — istituzione fondata da Cristo, identificata dalle quattro note (status: developing)
 
 ---
 
 ## Sources
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
+- [[Catechismo della Dottrina Cristiana (S. Pio X)]] — 2026-07-12 | catechismo Q&A, 1905/1912 | 9 wiki pages created
 
 ---
 

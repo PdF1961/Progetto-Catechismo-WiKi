@@ -39,4 +39,10 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ---
 
+## Books
+
+- [[Catechismo della Dottrina Cristiana (S. Pio X)]] — 1905/1912 | catechismo Q&A della diocesi di Roma | 9 wiki pages created
+
+---
+
 ## Add new sources here after each ingest.

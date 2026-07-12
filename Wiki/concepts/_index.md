@@ -36,6 +36,12 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 
 ---
 
-## Domain Concepts
+## Domain Concepts — Dottrina Cattolica
 
-<!-- Aggiungi qui i concetti specifici del dominio di questo wiki -->
+- [[Credo (Simbolo Apostolico)]] — i due misteri principali della fede e la struttura del Simbolo apostolico (status: developing)
+- [[Sacramenti]] — i sette sacramenti, materia/forma/ministro, sacramenti dei morti/dei vivi (status: developing)
+- [[Comandamenti di Dio (Decalogo)]] — i dieci comandamenti, cosa ordinano e cosa proibiscono (status: developing)
+- [[Peccato]] — peccato originale e attuale, mortale e veniale (status: developing)
+- [[Grazia]] — grazia santificante, sacramentale, attuale (status: developing)
+- [[Virtù Teologali e Cardinali]] — fede, speranza, carità; prudenza, giustizia, fortezza, temperanza (status: developing)
+- [[Precetti della Chiesa]] — i cinque precetti generali che applicano il Decalogo (status: developing)

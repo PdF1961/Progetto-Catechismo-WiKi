@@ -25,12 +25,13 @@ All entity pages — people, organizations, products, and tools.
 ## People
 
 - [[Andrej Karpathy]] — AI researcher, educator; originated the LLM Wiki pattern
+- [[Pio X]] — Papa (1903–1914), promotore del catechismo unico per la diocesi di Roma
 
 ---
 
 ## Organizations
 
-<!-- Add organization pages here -->
+- [[Chiesa Cattolica]] — istituzione fondata da Cristo, identificata dalle quattro note (una, santa, cattolica, apostolica)
 
 ---
 
