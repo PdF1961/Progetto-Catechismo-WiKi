@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-17 | Total pages: 149 | Sources ingested: 110
+Last updated: 2026-07-17 | Total pages: 150 | Sources ingested: 111
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 

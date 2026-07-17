@@ -148,6 +148,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[Benedetto XVI - Latina Lingua]] — 2012-11-10 | Pontificia Accademia di Latinità
 - [[Benedetto XVI - Declaratio]] — 2013-02-11 | rinuncia al pontificato
 - [[Francesco - Lumen Fidei]] — 2013-06-29 | prima enciclica, sulla fede
+- [[Francesco - Laudato Sì]] — 2015-05-24 | seconda enciclica, ecologia integrale
 - [[Francesco - Desiderio Desideravi]] — 2022-06-29 | formazione liturgica
 - [[Francesco - Laudate Deum]] — 2023-10-04 | crisi climatica
 - [[Francesco - Dilexit Nos]] — 2024-10-24 | quarta enciclica, sul Sacro Cuore

@@ -21,6 +21,14 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## [2026-07-17] recovery | Trovata fonte per sostituti genuini dei documenti bloccati; risolta Laudato Sì
+- **Scoperta chiave**: vatican.va serve copie PDF genuine e pulite (prodotte con iText, non jsPDF) allo stesso URL delle pagine `.html` dei documenti, semplicemente sostituendo l'estensione (es. `.../hf_jp-ii_enc_04031979_redemptor-hominis.html` → stesso path con `.pdf`). Confermato scaricando e verificando integralmente `Laudato Si'` di Francesco (85 pagine, testo genuino dall'introduzione fino alla conclusione con entrambe le preghiere finali).
+- **Tentativo di download massivo fallito**: risolti tramite gli indici `.index.html` di vatican.va tutti i 22 URL corretti per i documenti bloccati di Giovanni Paolo II (incluse 4 lettere apostoliche con slug non ovvi, risolti via ricerca web: Mulieris Dignitatem, Tertio Millennio Adveniente, Dies Domini, Novo Millennio Ineunte). Il download in blocco di 22 file consecutivi ha però attivato un blocco/rate-limit lato server: le richieste successive restituivano una pagina segnaposto da 100KB con solo lo stemma pontificio, non il documento reale. Testata l'attesa (90 secondi, poi 5 minuti) senza che il blocco si risolvesse — non un semplice cooldown breve.
+- **WebFetch testato come alternativa**: raggiunge le pagine vatican.va (non bloccato allo stesso modo), ma il modello sottostante rifiuta di riprodurre il testo integrale per policy sul copyright — non utilizzabile per un'estrazione fedele di documenti lunghi.
+- **Decisione dell'utente**: fermarsi per ora, conservare solo il sostituto già ottenuto (Laudato Sì), lasciare gli altri ~43 documenti bloccati come erano. L'utente ha poi chiesto l'elenco completo per procurarseli manualmente.
+- **Laudato Sì ingerita**: sostituito il file corrotto in `.raw/` con la copia genuina, letta (introduzione integrale, apertura cap. I, apertura cap. III sul "paradigma tecnocratico" integrale, conclusione con entrambe le preghiere integrale), creata [[Francesco - Laudato Sì]] (c-000163), aggiornata l'entità [[Francesco]] (6 documenti bloccati invece di 7).
+- **Per il futuro**: i pattern URL di vatican.va per encicliche/esortazioni/costituzioni/lettere apostoliche sono ormai noti (vedi [[hot]] per il template). Se si riprova, spaziare le richieste di almeno 10-15 secondi l'una dall'altra fin dall'inizio, non solo dopo aver notato il blocco.
+
 ## [2026-07-17] wiki-lint follow-up | Risolti entrambi gli open item del lint
 - Utente ha risposto "yes" ai due item aperti del lint precedente.
 - **Backfill indirizzi**: assegnati `c-000159`, `c-000160`, `c-000161` rispettivamente a [[Persistent Wiki Artifact]], [[Query-Time Retrieval]], [[Source-First Synthesis]] (3 concept page pre-esistenti, post-rollout DragonScale ma mai indirizzate). Manifest e counter aggiornati.

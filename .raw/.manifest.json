@@ -1227,6 +1227,21 @@
         "wiki/log.md",
         "wiki/sources/_index.md"
       ]
+    },
+    ".raw/Francesco - Laudato Sì.pdf": {
+      "hash": "ed59e6171adbd54a446673e2a99551a3",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Francesco - Laudato Sì.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
     }
   },
   "address_map": {
@@ -1373,6 +1388,7 @@
     "wiki/concepts/Persistent Wiki Artifact.md": "c-000159",
     "wiki/concepts/Query-Time Retrieval.md": "c-000160",
     "wiki/concepts/Source-First Synthesis.md": "c-000161",
-    "wiki/comparisons/cherry-picks.md": "c-000162"
+    "wiki/comparisons/cherry-picks.md": "c-000162",
+    "wiki/sources/Francesco - Laudato Sì.md": "c-000163"
   }
 }
