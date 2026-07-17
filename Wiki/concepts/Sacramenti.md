@@ -12,6 +12,9 @@ related:
   - "[[Catechismo della Dottrina Cristiana (S. Pio X)]]"
   - "[[Grazia]]"
   - "[[Chiesa Cattolica]]"
+  - "[[Leone XIII - Mirae Caritatis]]"
+  - "[[Pio XI - Casti Connubii]]"
+  - "[[Pio XII - Christus Dominus]]"
 complexity: intermediate
 domain: "dottrina cattolica"
 aliases: []
@@ -61,3 +64,15 @@ Il Catechismo distingue nettamente l'Eucaristia-sacramento (cibo delle anime) da
 ## Perché è un nodo centrale
 
 Ogni enciclica dottrinale o disciplinare del corpus (specialmente su Eucaristia, Penitenza, Ordine, Matrimonio) presuppone queste definizioni base. Punto di riferimento per confrontare sviluppi successivi (es. *Mediator Dei* di Pio XII sulla liturgia, *Mysterium Fidei* di Paolo VI sull'Eucaristia, *Sacramentum Caritatis* di Benedetto XVI — tutti in `.raw/`, non ancora ingeriti).
+
+## Approfondimento sull'Eucaristia
+
+[[Leone XIII - Mirae Caritatis]] (1902) sviluppa in chiave devozionale e dottrinale il tema eucaristico: l'eucaristia come "pane di vita", come continuazione dell'Incarnazione, e come rimedio alla conflittualità sociale trattata in [[Leone XIII - Rerum Novarum]].
+
+## Approfondimento sul Matrimonio
+
+[[Pio XI - Casti Connubii]] (1930) sviluppa in ampiezza la dottrina sul sacramento del matrimonio già sintetizzata nel Catechismo, riprendendo da Sant'Agostino i "tre beni" — prole, fede, sacramento — come struttura portante dell'intera esposizione, e fissando la dottrina magisteriale sulla contraccezione che resterà di riferimento fino a *Humanae Vitae* (1968).
+
+## Riforma disciplinare dell'Eucaristia
+
+[[Pio XII - Christus Dominus]] (1953) mitiga per la prima volta in modo sistematico l'antichissima disciplina del digiuno eucaristico dalla mezzanotte (attestata già dal Concilio d'Ippona, 393), introducendo eccezioni per malati, sacerdoti e fedeli in difficoltà pratica e autorizzando, dove necessario, la Messa vespertina — primo passo di un processo di mitigazione che proseguirà con Paolo VI nel 1964.

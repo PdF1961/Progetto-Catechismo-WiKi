@@ -24,6 +24,1209 @@
         "wiki/entities/_index.md",
         "wiki/sources/_index.md"
       ]
+    },
+    ".raw/Leone XIII - Aeterni Patris.pdf": {
+      "hash": "90fd8b22066aead4a3ea1531049660b6",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Aeterni Patris.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md",
+        "wiki/concepts/Filosofia Scolastica (Tomismo).md"
+      ]
+    },
+    ".raw/Leone XIII - Humanum Genus.pdf": {
+      "hash": "951f04bf08487abe5b00377481c3ed61",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Humanum Genus.md",
+        "wiki/entities/Massoneria.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md"
+      ]
+    },
+    ".raw/Leone XIII - Imortale Dei.pdf": {
+      "hash": "4eda3e84ef223f7bcdfe02841d726403",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Immortale Dei.md",
+        "wiki/concepts/Rapporti Chiesa-Stato.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md",
+        "wiki/entities/Chiesa Cattolica.md"
+      ]
+    },
+    ".raw/Leone XIII - Libertas.pdf": {
+      "hash": "a269d60d7297cb3e8d844178838757e1",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Libertas.md",
+        "wiki/concepts/Libertà (dottrina cattolica).md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md",
+        "wiki/concepts/Rapporti Chiesa-Stato.md"
+      ]
+    },
+    ".raw/Leone XIII - Rerum Novarum.pdf": {
+      "hash": "8c61bee7ae1f88a1fcbf78f857178c8b",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Rerum Novarum.md",
+        "wiki/concepts/Dottrina Sociale della Chiesa.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md"
+      ]
+    },
+    ".raw/Leone XIII - Testem Benevolentiae.pdf": {
+      "hash": "c63793a08a2fa0c5fca1ee018cbff8c3",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Testem Benevolentiae.md",
+        "wiki/concepts/Americanismo.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md"
+      ]
+    },
+    ".raw/Leone XIII - Mirae Caritatis.pdf": {
+      "hash": "3ef2ebd1d9eac3b2ec76613f50c642a7",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Mirae Caritatis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md",
+        "wiki/concepts/Sacramenti.md"
+      ]
+    },
+    ".raw/LEONE XIII - Praeclara Gratulationis.pdf": {
+      "hash": "8344c498238ca3d1ec73ebce507ebfed",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Praeclara Gratulationis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md",
+        "wiki/entities/Chiesa Cattolica.md"
+      ]
+    },
+    ".raw/Leone XIII - Fin dal Principio.pdf": {
+      "hash": "796b68bddf0e8799ee627ddb74679315",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Leone XIII - Fin dal Principio.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Leone XIII.md"
+      ]
+    },
+    ".raw/Pio X - E Supremi.pdf": {
+      "hash": "5f613152ccead873e5ac37aac73304ce",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Pio X - E Supremi.md",
+        "wiki/concepts/Instaurare Omnia in Christo.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md"
+      ]
+    },
+    ".raw/Catechismo Maggiore (di S. Pio X).pdf": {
+      "hash": "5df3762e94cd3cf98318cc49868779d1",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Catechismo Maggiore (S. Pio X).md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Pio X - Acerbo Nimis.pdf": {
+      "hash": "303f84aa77346fccc5aa74040a057056",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio X - Acerbo Nimis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md"
+      ]
+    },
+    ".raw/Pio X - In Fermo Proposito.pdf": {
+      "hash": "4bb4759f582a5c9a49711cc15e803f7e",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio X - In Fermo Proposito.md",
+        "wiki/concepts/Azione Cattolica.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md"
+      ]
+    },
+    ".raw/Pio X - Vehementer Nos.pdf": {
+      "hash": "8f630f2f2750b8d1dbc3c4e64dab0586",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio X - Vehementer Nos.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md",
+        "wiki/concepts/Rapporti Chiesa-Stato.md"
+      ]
+    },
+    ".raw/Pio X - Sacrorum Antistitum.pdf": {
+      "hash": "8e74ecaf0207997b8b4c976d96c1dd63",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio X - Sacrorum Antistitum.md",
+        "wiki/concepts/Modernismo.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md"
+      ]
+    },
+    ".raw/Pio X - Pascendi Dominici Gregis.pdf": {
+      "hash": "6bbde6640e14a428ef31e1ea5319069f",
+      "ingested_at": "2026-07-13",
+      "note": "user replaced the originally-corrupted PDF (see wiki/sources/Pio X - Pascendi Dominici Gregis.md); this hash is the replacement file's hash",
+      "pages_created": [
+        "wiki/sources/Pio X - Pascendi Dominici Gregis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio X.md",
+        "wiki/concepts/Modernismo.md"
+      ]
+    },
+    ".raw/Pio XI - Ubi Arcano Dei Consilio.pdf": {
+      "hash": "13f11ce17a7ae80668df1a94a810d73c",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Ubi Arcano Dei Consilio.md",
+        "wiki/entities/Pio XI.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Modernismo.md"
+      ]
+    },
+    ".raw/Pio XI - Quas Primas.pdf": {
+      "hash": "3440fb980e329f1cf02c5a39e69c7b06",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Quas Primas.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md"
+      ]
+    },
+    ".raw/Pio XI - Mortalium Animos.pdf": {
+      "hash": "434ca0bc905afe171c03c856807489d3",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Mortalium Animos.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md"
+      ]
+    },
+    ".raw/Pio XI - Divini Illius Magistri.pdf": {
+      "hash": "67a064986dad5866a1683a3be4dbefad",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Divini Illius Magistri.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md"
+      ]
+    },
+    ".raw/Pio XI - Non Abbiamo Bisogno.pdf": {
+      "hash": "227ca37c105aeee70f193c986dd2a457",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Non Abbiamo Bisogno.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md",
+        "wiki/concepts/Azione Cattolica.md"
+      ]
+    },
+    ".raw/Pio XI - Mit Brennender Sorge.pdf": {
+      "hash": "364fe35e29db3acf290e77c855fb2b5f",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Mit Brennender Sorge.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md"
+      ]
+    },
+    ".raw/Pio XI - Divini Redemptoris.pdf": {
+      "hash": "39f6d22b4a269e2f6b30db2476976883",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Divini Redemptoris.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md",
+        "wiki/concepts/Dottrina Sociale della Chiesa.md"
+      ]
+    },
+    ".raw/Pio XI - Ingravescentibus Malis.pdf": {
+      "hash": "2bddedc37cc1d3b9edd35f02b12f2161",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/Pio XI - Ingravescentibus Malis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md"
+      ]
+    },
+    ".raw/PIO XI - Casti Connubii.pdf": {
+      "hash": "03a2cd9d9953a49fb06f023e924c48ed",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XI - Casti Connubii.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md",
+        "wiki/concepts/Sacramenti.md",
+        "wiki/concepts/Dottrina Sociale della Chiesa.md"
+      ]
+    },
+    ".raw/Pio XI - Quadragesimo Anno.pdf": {
+      "hash": "1039419544a20499039527c907927b66",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XI - Quadragesimo Anno.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md",
+        "wiki/concepts/Dottrina Sociale della Chiesa.md"
+      ]
+    },
+    ".raw/Pius XI - Deus Scientiarum Dominus.pdf": {
+      "hash": "de207ffd2be93c66785d436ae3922916",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XI - Deus Scientiarum Dominus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XI.md",
+        "wiki/concepts/Filosofia Scolastica (Tomismo).md"
+      ]
+    },
+    ".raw/Pio XII - Radiomessaggio - Nell'Ora Grave.pdf": {
+      "hash": "eab3bbe52aebf327fbd8c1bb7eaf7f89",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Radiomessaggio Nell'Ora Grave.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Summi Pontificatus.pdf": {
+      "hash": "7e0090bfb06ed8ffbbdc978ce71a6561",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Summi Pontificatus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Divino Afflante Spiritu.pdf": {
+      "hash": "f076f59552691a9324f5ddef95ca523b",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Divino Afflante Spiritu.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Humani Generis.pdf": {
+      "hash": "e3bc883fa37a998d705c3af637de6ec6",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Humani Generis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Munificentissimus Deus.pdf": {
+      "hash": "80536566c0e387cfc4bebc5bb79f49fa",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Munificentissimus Deus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Provida Mater Ecclesia.pdf": {
+      "hash": "890ef659a8f7318161994fdad5ffa170",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Provida Mater Ecclesia.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Sponsa Christi.pdf": {
+      "hash": "de37d802d598a5577e47140cb00a6e0b",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Sponsa Christi.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Christus Dominus.pdf": {
+      "hash": "68e1c8bc208bc594d5817968899df843",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Christus Dominus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Discorso alle Ostetriche.pdf": {
+      "hash": "e687d56b41c864b2ef9c272c744523da",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Discorso alle Ostetriche.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Discorso all'Unione Medico Biologica S. Luca.pdf": {
+      "hash": "e141a9c381eb7dca4e1f2075e4a4b73e",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Discorso Unione Medico-Biologica San Luca.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Radiomessaggio - Ai Popoli del Mondo Intero.pdf": {
+      "hash": "d95a11d3a0f510b2607127e65f7a10de",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Radiomessaggio ai Popoli del Mondo Intero.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Miranda Prorsus.pdf": {
+      "hash": "3bf78fd41f013517cbfc68f9d1477ae7",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Pio XII - Miranda Prorsus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Benedetto XV - Ubi Primum.pdf": {
+      "hash": "ff03121e6b39ea258587a8f039428b45",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Ubi Primum.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Ad Beatissimi Apostolorum.pdf": {
+      "hash": "46fe612233e897d7828d0948c85f5627",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Ad Beatissimi Apostolorum.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Allorché Fummo Chiamati.pdf": {
+      "hash": "7541c78f5cae0a300f950dc2f7149ab8",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Allorché Fummo Chiamati.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Codice Diritto Canonico (1917).pdf": {
+      "hash": "47471f876e10deffabb8a908beb29777",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Codice di Diritto Canonico (1917).md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Humani Generis Redemptionis.pdf": {
+      "hash": "97646be3672438fc35026f30103b65e3",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Humani Generis Redemptionem.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Dès le Début.pdf": {
+      "hash": "b4bd118ef29bf7eead62638a671d16ed",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Dès le Début.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Quod Iam Diu.pdf": {
+      "hash": "7dda16bba9ccc093bacff29db6d88e14",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Quod Iam Diu.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - In Hac Tanta.pdf": {
+      "hash": "6ae2fa08589730e71f4a17901f4fd9a6",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - In Hac Tanta.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Maximum Illud.pdf": {
+      "hash": "afd952d8aa792017ecb56329015b5ab5",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Maximum Illud.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Pacem. Dei Munus Pulcherrimum.pdf": {
+      "hash": "721b60cdb62a36f1d4faada581153280",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Pacem Dei Munus Pulcherrimum.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Principi Apostolorum Petro.pdf": {
+      "hash": "249ed7d6d030973115f573a6abb3ffbe",
+      "ingested_at": "2026-07-16",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Principi Apostolorum Petro.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md"
+      ]
+    },
+    ".raw/Benedetto XV - Spiritus Paraclitus.pdf": {
+      "hash": "82ef89fc113b20bae641f6d4184d1d3c",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XV - Spiritus Paraclitus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Benedetto XV.md",
+        "wiki/concepts/Modernismo.md",
+        "wiki/sources/Pio XII - Divino Afflante Spiritu.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/CV1 - Dei Filius.pdf": {
+      "hash": "e8710f331136212fd095e3ca9575f5a4",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV1 - Dei Filius.md",
+        "wiki/entities/Concilio Vaticano I.md",
+        "wiki/entities/Pio IX.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Modernismo.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/entities/_index.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/CV1 - Pastor Aeternus.pdf": {
+      "hash": "98d3c40eb45afb9fcd55a1ed92fe8e1e",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV1 - Pastor Aeternus.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Concilio Vaticano I.md",
+        "wiki/entities/Pio IX.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/CV2 - Ad Gentes.pdf": {
+      "hash": "f4724c9586a177e5db73cf844b2daa82",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Ad Gentes.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Apostolicam Actuositatem.pdf": {
+      "hash": "1908b110761bfe72588ac519bb259df5",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Apostolicam Actuositatem.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Christus Dominus.pdf": {
+      "hash": "7c2b552e5f98542a8cee246b9fb6e252",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Christus Dominus.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Dei Verbum.pdf": {
+      "hash": "5acb83569e4553c44744a243997b610c",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Dei Verbum.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Dignitatis Humanae.pdf": {
+      "hash": "c713c4be7b8d911328ef5e9e98d7e32d",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Dignitatis Humanae.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Gaudium et Spes.pdf": {
+      "hash": "ae400b4e4539b0233dee15b48948f54c",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Gaudium et Spes.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Gravissimum Educationis.pdf": {
+      "hash": "5eaf1261b4f2f237eaf4a93bebc4a236",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Gravissimum Educationis.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Inter Mirifica.pdf": {
+      "hash": "a8d1a158278d5125d5628bb3b18de513",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Inter Mirifica.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Lumen Gentium.pdf": {
+      "hash": "dcf130e7f9b31050b9036fd9af58993a",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Lumen Gentium.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Nostra Aetate.pdf": {
+      "hash": "5c3c31ef2b2b22d4d7fc2c24067b8dad",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Nostra Aetate.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Optatam Totius.pdf": {
+      "hash": "455032ccf8a67073af06755be5313ae4",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Optatam Totius.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Perfectae Caritatis.pdf": {
+      "hash": "049250b49b1652bda197e3b752108ad1",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Perfectae Caritatis.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/CV2 - Unitatis Redintegratio.pdf": {
+      "hash": "e0f3cecea87055e932bbdd69930c32f5",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Unitatis Redintegratio.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Ad Petri Cathedram.pdf": {
+      "hash": "370f0cbfef1d77d170b309b5e1d68d7f",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Ad Petri Cathedram.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Aeterna Dei Sapientia.pdf": {
+      "hash": "1fb0b7d932acf4e2cb7641285456a575",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Aeterna Dei Sapientia.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Appropinquante Concilio.pdf": {
+      "hash": "757ea84e1622bc3b53085921ee67d258",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Appropinquante Concilio.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Humanae Salutis.pdf": {
+      "hash": "d73487c0b30a74443a936a960e41a2d5",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Humanae Salutis.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Omelia S. Paolo fuori le Mura (25 Gennaio 1959).pdf": {
+      "hash": "22984eeaf3472b31ef0b1bf871bdd31b",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Omelia S. Paolo fuori le Mura.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Giovanni XXIII - Prima Romana Synodus.pdf": {
+      "hash": "c31ff99890df0583bd5e7dcde2e0cac8",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Prima Romana Synodus.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Apostolica Sollicitudo.pdf": {
+      "hash": "8153693dad1f3cddb0dfde01bdf06c8d",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Apostolica Sollicitudo.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Discorso alle Nazioni Unite.pdf": {
+      "hash": "de7febffcb32f1f9371e9fe9fc43c559",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Discorso alle Nazioni Unite.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Gaudete in Domino.pdf": {
+      "hash": "ddcf29a6d3508bd40dad6ce1926458a9",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Gaudete in Domino.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Humanae Vitae.pdf": {
+      "hash": "4373fc6d8a690db89982ebc3f89c3393",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Humanae Vitae.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Missale Romanum.pdf": {
+      "hash": "98134b20920e0177f507ce63170ff285",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Missale Romanum.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Mysterium Fidei.pdf": {
+      "hash": "648d320936101849dc8d195fbf3bbeec",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Mysterium Fidei.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Octagesima Adveniens.pdf": {
+      "hash": "6bbe0e2e7cea320954d283ca672043d7",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Octagesima Adveniens.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Omelia festa di S. Pietro e S. Paolo.pdf": {
+      "hash": "6c50d846643bf56f555e36338160333e",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Omelia festa di S. Pietro e S. Paolo.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Populorum Progressio.pdf": {
+      "hash": "6be8d6800dd90ffbb002a791f9dea781",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Populorum Progressio.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Regimini Ecclesiae Universae.pdf": {
+      "hash": "b14cebe3910e7100f7973c167c5eabdb",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Regimini Ecclesiae Universae.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Paolo VI - Signum Magnum.pdf": {
+      "hash": "9ec9d1cd87e38b74a45b64114544d413",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Signum Magnum.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/Catechismo della Chiesa Cattolica (S. Giovanni Paolo II).pdf": {
+      "hash": "32df9a4d180174b8ca98aceff1fea3d1",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Catechismo della Chiesa Cattolica (S. Giovanni Paolo II).md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Fidei Depositum.pdf": {
+      "hash": "440057cc74f94071918d2684904060d5",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Fidei Depositum.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Omelia di Inizio Pontificato.pdf": {
+      "hash": "76a8a80297315eeeb0f48ab29ceaca3f",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Omelia di Inizio Pontificato.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Ordinatio Sacerdotalis.pdf": {
+      "hash": "a28881f9e54e1a274d292600c4610ac6",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Ordinatio Sacerdotalis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Rosarium Virginis Mariae.pdf": {
+      "hash": "36f9707c55a121a15bfa86414c000b3e",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Rosarium Virginis Mariae.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Sacrae Disciplinae Legis.pdf": {
+      "hash": "e114b72a77c918188958aad7d6a27069",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Sacrae Disciplinae Legis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Spirituali Militum Curae.pdf": {
+      "hash": "04ef6310fb1cd5bdbfc70855de73df21",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Spirituali Militum Curae.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Visita Pastorale a Centro Ettore Majorana di Erice.pdf": {
+      "hash": "bc6ce7f845f4c9c08efdd479edeef4c3",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Visita Pastorale a Centro Ettore Majorana di Erice.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Declaratio (Italiano).pdf": {
+      "hash": "4ba11f02340a8c8e9eed0a7901e75b6a",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Declaratio.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Declaratio (Latino).pdf": {
+      "hash": "ca688158d62af5892321bf1c83d37b6f",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Declaratio.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Discorso di Ratisbona.pdf": {
+      "hash": "310d0152980cbff56cf73c4ea5d7f9fd",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Discorso di Ratisbona.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Discorso alla Curia Romana (Ermeneutica).pdf": {
+      "hash": "84d5811be50f656d4bf345a6010b1e28",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Discorso alla Curia Romana (Ermeneutica).md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Discorso al Collège des Bernardins (Origine della Cultura Occidentale).pdf": {
+      "hash": "0918b5721cc5facccef83f6fda443f46",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Discorso al Collège des Bernardins.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Discorso di Westmister Hall.pdf": {
+      "hash": "f4eabcaffa33562292eec2cc13a157b6",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Discorso di Westminster Hall.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Latina Lingua.pdf": {
+      "hash": "855d543d685eed7916c9b9079d04846e",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Latina Lingua.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Summorum Pontificum.pdf": {
+      "hash": "9cef4f320c78f49ecb95884997c49533",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Summorum Pontificum.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Lettera ai Fedeli della Repubblica Popolare Cinese.pdf": {
+      "hash": "4d6369bcdc9dcb7a5bd7f6186bcc59a3",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Lettera ai Fedeli della Repubblica Popolare Cinese.md",
+        "wiki/entities/Benedetto XVI.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Francesco - Lumen Fidei.pdf": {
+      "hash": "09bfb4e2cf2132e3659f3d6ef4d82760",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Francesco - Lumen Fidei.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Francesco - Desiderio Desideravi.pdf": {
+      "hash": "bfea5a535621d16b509aac8943cc10d3",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Francesco - Desiderio Desideravi.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Francesco - Dilexit Nos.pdf": {
+      "hash": "99ef8aa8f288dfb74d116ea4e1d9d6a6",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Francesco - Dilexit Nos.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Francesco - Laudate Deum.pdf": {
+      "hash": "593183b6c743b667ce5a8176d08de012",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Francesco - Laudate Deum.md",
+        "wiki/entities/Francesco.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/Leone XIV - Magnifica Humanitas.pdf": {
+      "hash": "4658ea89b7059c334a34fe7eb6bb9220",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Leone XIV - Magnifica Humanitas.md",
+        "wiki/entities/Leone XIV.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md"
+      ]
+    },
+    ".raw/CV2 - Sacrosantum Concilium.pdf": {
+      "hash": "49a42a86a53ae9ec8ca325bd4bf1bebb",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Sacrosanctum Concilium.md",
+        "wiki/entities/Concilio Vaticano II.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/CV2 - Presbiterorum Ordinis.pdf": {
+      "hash": "d12ecbce86ee79f785d469041fbc3db1",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Presbyterorum Ordinis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/CV2 - Orientalium Ecclesiarum.pdf": {
+      "hash": "f21d297cba2276602c043aeb05e81218",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/CV2 - Orientalium Ecclesiarum.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/Compendio del Catechismo della Chiesa Cattolica.pdf": {
+      "hash": "9e588dcec75cbac07b080b68c59beb72",
+      "ingested_at": "2026-07-17",
+      "pages_created": [
+        "wiki/sources/Compendio del Catechismo della Chiesa Cattolica.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
     }
   },
   "address_map": {
@@ -36,6 +1239,140 @@
     "wiki/concepts/Peccato.md": "c-000023",
     "wiki/concepts/Grazia.md": "c-000024",
     "wiki/concepts/Virtù Teologali e Cardinali.md": "c-000025",
-    "wiki/concepts/Precetti della Chiesa.md": "c-000026"
+    "wiki/concepts/Precetti della Chiesa.md": "c-000026",
+    "wiki/entities/Leone XIII.md": "c-000027",
+    "wiki/entities/Massoneria.md": "c-000028",
+    "wiki/concepts/Filosofia Scolastica (Tomismo).md": "c-000029",
+    "wiki/concepts/Rapporti Chiesa-Stato.md": "c-000030",
+    "wiki/concepts/Libertà (dottrina cattolica).md": "c-000031",
+    "wiki/concepts/Dottrina Sociale della Chiesa.md": "c-000032",
+    "wiki/concepts/Americanismo.md": "c-000033",
+    "wiki/concepts/Instaurare Omnia in Christo.md": "c-000034",
+    "wiki/sources/Leone XIII - Aeterni Patris.md": "c-000035",
+    "wiki/sources/Leone XIII - Immortale Dei.md": "c-000036",
+    "wiki/sources/Leone XIII - Libertas.md": "c-000037",
+    "wiki/sources/Leone XIII - Rerum Novarum.md": "c-000038",
+    "wiki/sources/Leone XIII - Testem Benevolentiae.md": "c-000039",
+    "wiki/sources/Leone XIII - Mirae Caritatis.md": "c-000040",
+    "wiki/sources/Leone XIII - Humanum Genus.md": "c-000041",
+    "wiki/sources/Leone XIII - Praeclara Gratulationis.md": "c-000042",
+    "wiki/sources/Leone XIII - Fin dal Principio.md": "c-000043",
+    "wiki/sources/Pio X - E Supremi.md": "c-000044",
+    "wiki/sources/Catechismo Maggiore (S. Pio X).md": "c-000045",
+    "wiki/sources/Pio X - Acerbo Nimis.md": "c-000046",
+    "wiki/sources/Pio X - In Fermo Proposito.md": "c-000047",
+    "wiki/concepts/Azione Cattolica.md": "c-000048",
+    "wiki/sources/Pio X - Vehementer Nos.md": "c-000049",
+    "wiki/sources/Pio X - Sacrorum Antistitum.md": "c-000050",
+    "wiki/concepts/Modernismo.md": "c-000051",
+    "wiki/sources/Pio X - Pascendi Dominici Gregis.md": "c-000052",
+    "wiki/sources/Pio XI - Ubi Arcano Dei Consilio.md": "c-000053",
+    "wiki/sources/Pio XI - Quas Primas.md": "c-000054",
+    "wiki/sources/Pio XI - Mortalium Animos.md": "c-000055",
+    "wiki/sources/Pio XI - Divini Illius Magistri.md": "c-000056",
+    "wiki/sources/Pio XI - Non Abbiamo Bisogno.md": "c-000057",
+    "wiki/sources/Pio XI - Mit Brennender Sorge.md": "c-000058",
+    "wiki/sources/Pio XI - Divini Redemptoris.md": "c-000059",
+    "wiki/sources/Pio XI - Ingravescentibus Malis.md": "c-000060",
+    "wiki/entities/Pio XI.md": "c-000061",
+    "wiki/sources/Pio XI - Deus Scientiarum Dominus.md": "c-000062",
+    "wiki/sources/Pio XI - Casti Connubii.md": "c-000063",
+    "wiki/sources/Pio XI - Quadragesimo Anno.md": "c-000064",
+    "wiki/sources/Pio XII - Radiomessaggio Nell'Ora Grave.md": "c-000065",
+    "wiki/sources/Pio XII - Summi Pontificatus.md": "c-000066",
+    "wiki/sources/Pio XII - Divino Afflante Spiritu.md": "c-000067",
+    "wiki/sources/Pio XII - Humani Generis.md": "c-000068",
+    "wiki/sources/Pio XII - Munificentissimus Deus.md": "c-000069",
+    "wiki/sources/Pio XII - Provida Mater Ecclesia.md": "c-000070",
+    "wiki/sources/Pio XII - Sponsa Christi.md": "c-000071",
+    "wiki/sources/Pio XII - Christus Dominus.md": "c-000072",
+    "wiki/sources/Pio XII - Discorso alle Ostetriche.md": "c-000073",
+    "wiki/sources/Pio XII - Discorso Unione Medico-Biologica San Luca.md": "c-000074",
+    "wiki/sources/Pio XII - Radiomessaggio ai Popoli del Mondo Intero.md": "c-000075",
+    "wiki/sources/Pio XII - Miranda Prorsus.md": "c-000076",
+    "wiki/entities/Pio XII.md": "c-000077",
+    "wiki/sources/Benedetto XV - Ubi Primum.md": "c-000081",
+    "wiki/sources/Benedetto XV - Ad Beatissimi Apostolorum.md": "c-000080",
+    "wiki/sources/Benedetto XV - Allorché Fummo Chiamati.md": "c-000082",
+    "wiki/sources/Benedetto XV - Codice di Diritto Canonico (1917).md": "c-000078",
+    "wiki/sources/Benedetto XV - Humani Generis Redemptionem.md": "c-000086",
+    "wiki/sources/Benedetto XV - Dès le Début.md": "c-000083",
+    "wiki/sources/Benedetto XV - Quod Iam Diu.md": "c-000084",
+    "wiki/sources/Benedetto XV - In Hac Tanta.md": "c-000087",
+    "wiki/sources/Benedetto XV - Maximum Illud.md": "c-000079",
+    "wiki/sources/Benedetto XV - Pacem Dei Munus Pulcherrimum.md": "c-000085",
+    "wiki/sources/Benedetto XV - Principi Apostolorum Petro.md": "c-000088",
+    "wiki/entities/Benedetto XV.md": "c-000089",
+    "wiki/sources/Benedetto XV - Spiritus Paraclitus.md": "c-000090",
+    "wiki/sources/CV1 - Dei Filius.md": "c-000091",
+    "wiki/sources/CV1 - Pastor Aeternus.md": "c-000092",
+    "wiki/entities/Concilio Vaticano I.md": "c-000093",
+    "wiki/entities/Pio IX.md": "c-000094",
+    "wiki/sources/CV2 - Ad Gentes.md": "c-000099",
+    "wiki/sources/CV2 - Apostolicam Actuositatem.md": "c-000102",
+    "wiki/sources/CV2 - Christus Dominus.md": "c-000101",
+    "wiki/sources/CV2 - Dei Verbum.md": "c-000095",
+    "wiki/sources/CV2 - Dignitatis Humanae.md": "c-000098",
+    "wiki/sources/CV2 - Gaudium et Spes.md": "c-000097",
+    "wiki/sources/CV2 - Gravissimum Educationis.md": "c-000103",
+    "wiki/sources/CV2 - Inter Mirifica.md": "c-000104",
+    "wiki/sources/CV2 - Lumen Gentium.md": "c-000096",
+    "wiki/sources/CV2 - Nostra Aetate.md": "c-000105",
+    "wiki/sources/CV2 - Optatam Totius.md": "c-000106",
+    "wiki/sources/CV2 - Perfectae Caritatis.md": "c-000107",
+    "wiki/sources/CV2 - Unitatis Redintegratio.md": "c-000100",
+    "wiki/entities/Concilio Vaticano II.md": "c-000108",
+    "wiki/sources/Giovanni XXIII - Ad Petri Cathedram.md": "c-000109",
+    "wiki/sources/Giovanni XXIII - Aeterna Dei Sapientia.md": "c-000110",
+    "wiki/sources/Giovanni XXIII - Appropinquante Concilio.md": "c-000111",
+    "wiki/sources/Giovanni XXIII - Humanae Salutis.md": "c-000112",
+    "wiki/sources/Giovanni XXIII - Omelia S. Paolo fuori le Mura.md": "c-000114",
+    "wiki/sources/Giovanni XXIII - Prima Romana Synodus.md": "c-000116",
+    "wiki/entities/Giovanni XXIII.md": "c-000117",
+    "wiki/sources/Paolo VI - Apostolica Sollicitudo.md": "c-000118",
+    "wiki/sources/Paolo VI - Discorso alle Nazioni Unite.md": "c-000119",
+    "wiki/sources/Paolo VI - Gaudete in Domino.md": "c-000120",
+    "wiki/sources/Paolo VI - Humanae Vitae.md": "c-000121",
+    "wiki/sources/Paolo VI - Missale Romanum.md": "c-000122",
+    "wiki/sources/Paolo VI - Mysterium Fidei.md": "c-000123",
+    "wiki/sources/Paolo VI - Octagesima Adveniens.md": "c-000124",
+    "wiki/sources/Paolo VI - Omelia festa di S. Pietro e S. Paolo.md": "c-000125",
+    "wiki/sources/Paolo VI - Populorum Progressio.md": "c-000126",
+    "wiki/sources/Paolo VI - Regimini Ecclesiae Universae.md": "c-000127",
+    "wiki/sources/Paolo VI - Signum Magnum.md": "c-000128",
+    "wiki/entities/Paolo VI.md": "c-000129",
+    "wiki/sources/Catechismo della Chiesa Cattolica (S. Giovanni Paolo II).md": "c-000130",
+    "wiki/sources/Giovanni Paolo II - Fidei Depositum.md": "c-000131",
+    "wiki/sources/Giovanni Paolo II - Omelia di Inizio Pontificato.md": "c-000132",
+    "wiki/sources/Giovanni Paolo II - Ordinatio Sacerdotalis.md": "c-000133",
+    "wiki/sources/Giovanni Paolo II - Rosarium Virginis Mariae.md": "c-000134",
+    "wiki/sources/Giovanni Paolo II - Sacrae Disciplinae Legis.md": "c-000135",
+    "wiki/sources/Giovanni Paolo II - Spirituali Militum Curae.md": "c-000136",
+    "wiki/sources/Giovanni Paolo II - Visita Pastorale a Centro Ettore Majorana di Erice.md": "c-000137",
+    "wiki/entities/Giovanni Paolo II.md": "c-000138",
+    "wiki/sources/Benedetto XVI - Declaratio.md": "c-000139",
+    "wiki/sources/Benedetto XVI - Discorso di Ratisbona.md": "c-000140",
+    "wiki/sources/Benedetto XVI - Discorso alla Curia Romana (Ermeneutica).md": "c-000141",
+    "wiki/sources/Benedetto XVI - Discorso al Collège des Bernardins.md": "c-000142",
+    "wiki/sources/Benedetto XVI - Discorso di Westminster Hall.md": "c-000143",
+    "wiki/sources/Benedetto XVI - Latina Lingua.md": "c-000144",
+    "wiki/sources/Benedetto XVI - Summorum Pontificum.md": "c-000145",
+    "wiki/sources/Benedetto XVI - Lettera ai Fedeli della Repubblica Popolare Cinese.md": "c-000146",
+    "wiki/entities/Benedetto XVI.md": "c-000147",
+    "wiki/sources/Francesco - Lumen Fidei.md": "c-000148",
+    "wiki/sources/Francesco - Desiderio Desideravi.md": "c-000149",
+    "wiki/sources/Francesco - Dilexit Nos.md": "c-000150",
+    "wiki/sources/Francesco - Laudate Deum.md": "c-000151",
+    "wiki/entities/Francesco.md": "c-000152",
+    "wiki/sources/Leone XIV - Magnifica Humanitas.md": "c-000153",
+    "wiki/entities/Leone XIV.md": "c-000154",
+    "wiki/sources/CV2 - Sacrosanctum Concilium.md": "c-000156",
+    "wiki/sources/CV2 - Orientalium Ecclesiarum.md": "c-000158",
+    "wiki/sources/Compendio del Catechismo della Chiesa Cattolica.md": "c-000155",
+    "wiki/sources/CV2 - Presbyterorum Ordinis.md": "c-000157",
+    "wiki/concepts/Persistent Wiki Artifact.md": "c-000159",
+    "wiki/concepts/Query-Time Retrieval.md": "c-000160",
+    "wiki/concepts/Source-First Synthesis.md": "c-000161",
+    "wiki/comparisons/cherry-picks.md": "c-000162"
   }
 }

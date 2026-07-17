@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Source-First Synthesis"
+address: c-000161
 created: 2026-04-24
 updated: 2026-04-24
 tags:
