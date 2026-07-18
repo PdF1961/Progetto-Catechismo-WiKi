@@ -1242,6 +1242,651 @@
         "wiki/sources/_index.md",
         "wiki/entities/Francesco.md"
       ]
+    },
+    ".raw/Pio XII - Mystici Corporis Christi.pdf": {
+      "hash": "452c035fae1a066f53420c0ac0d6f4b5",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Pio XII - Mystici Corporis Christi.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Mediator Dei.pdf": {
+      "hash": "f5b5abe8daed4b04ca8f66c4a66d0717",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Pio XII - Mediator Dei.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Pio XII - Haurietis Aquas.pdf": {
+      "hash": "da899f567dd29c80c9aae775bd690382",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Pio XII - Haurietis Aquas.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Pio XII.md"
+      ]
+    },
+    ".raw/Giovanni XXIII - Mater et Magistra.pdf": {
+      "hash": "6a0a99cc20d637cf9b8119ee154b7178",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Mater et Magistra.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni XXIII.md"
+      ]
+    },
+    ".raw/Giovanni XXIII - Pacem in Terris.pdf": {
+      "hash": "f4917c8f3cc443b46a219f4d088973b6",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni XXIII - Pacem in Terris.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni XXIII.md"
+      ]
+    },
+    ".raw/Paolo VI - Ecclesiam Suam.pdf": {
+      "hash": "cb664af056523484f115289a7ea467bf",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Ecclesiam Suam.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Paolo VI.md"
+      ]
+    },
+    ".raw/Paolo VI - Sacerdotalis Caelibatus.pdf": {
+      "hash": "97fcf38d084d5098f4e5cc322a646819",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Sacerdotalis Caelibatus.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Paolo VI.md"
+      ]
+    },
+    ".raw/Paolo VI - Evangelii Nuntiandi.pdf": {
+      "hash": "0541dd115b3576da3be0f0c4c4806821",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Paolo VI - Evangelii Nuntiandi.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Paolo VI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Deus Caritas Est.pdf": {
+      "hash": "2fcb6e14e82c62518ea6caa47f451318",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Deus Caritas Est.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Sacramentum Caritatis.pdf": {
+      "hash": "484be87f25e2ef5e7cf9e6dc3ada1b60",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Sacramentum Caritatis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Spe Salvi.pdf": {
+      "hash": "a89d98a7eeddccb931408a18a175811f",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Spe Salvi.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Caritas in Veritate.pdf": {
+      "hash": "5409d3db0b2945a26f65492fab9e83c4",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Caritas in Veritate.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Verbum Domini.pdf": {
+      "hash": "a15eeb90c3f88fa8bdf18c9e55af2b42",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Verbum Domini.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Africae Munus.pdf": {
+      "hash": "6b35ec47a0fb8503b3563956fa9c5bc1",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Africae Munus.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Benedetto XVI - Ecclesia in Medio Oriente.pdf": {
+      "hash": "2ec4a5a38dda5babc7f0346672d836cd",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Benedetto XVI - Ecclesia in Medio Oriente.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Benedetto XVI.md"
+      ]
+    },
+    ".raw/Francesco - Evangelii Gaudium.pdf": {
+      "hash": "4d857986c30907257ac0e10f03cc282b",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Evangelii Gaudium.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Francesco - Amoris Laetitia.pdf": {
+      "hash": "93bf03bd8e1f1b0b0cbf6e38babc6d05",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Amoris Laetitia.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Francesco - Gaudete et Exsultate.pdf": {
+      "hash": "a91162e10651d43a9835006caf27c4e3",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Gaudete et Exsultate.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Francesco - Christus Vivit.pdf": {
+      "hash": "d9ffb42e2bdcf588e2173dd15a13082b",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Christus Vivit.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Francesco - Querida Amazonia.pdf": {
+      "hash": "8a49b03bb4f42e6457c4f43262ffcca2",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Querida Amazonia.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Francesco - Fratelli Tutti.pdf": {
+      "hash": "6b3e3f6d3991fd64713198212b40de3f",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Francesco - Fratelli Tutti.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Francesco.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Redemptor Hominis.pdf": {
+      "hash": "cf13a91f7cb36e8ea45da00d6a649266",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Redemptor Hominis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Catechesi Tradendae.pdf": {
+      "hash": "88ab52ec7c2a2a4032fc6b06f8a9a499",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Catechesi Tradendae.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Dives in Misericordia.pdf": {
+      "hash": "ddd8c6a4fea3113ee6055dd188a31f69",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Dives in Misericordia.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Laborem Exercens.pdf": {
+      "hash": "cef30bcd3af53ab58caee7f4b5ef9c01",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Laborem Exercens.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Familiaris Consortio.pdf": {
+      "hash": "852f5b75b3b8274869d34e31b5b62f5a",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Familiaris Consortio.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Dominum et Vivificantem.pdf": {
+      "hash": "8ffb33c887dee1cfce3ad6a4d61bd2c7",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Dominum et Vivificantem.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Sollecitudo Rei Socialis.pdf": {
+      "hash": "26fd24fc90d8694af5bf1f09ffde8f21",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Sollecitudo Rei Socialis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Mulieris Dignitatem.pdf": {
+      "hash": "79f806f8a566a5adc4c7992f544b550f",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Mulieris Dignitatem.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Christifideles Laici.pdf": {
+      "hash": "1f0e409b8f2e2c60b6a28d7964c834bd",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Christifideles Laici.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Redemptoris Missio.pdf": {
+      "hash": "1756d10161b5a499564127ac3e006a69",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Redemptoris Missio.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Centesimus Annus.pdf": {
+      "hash": "8bb17a3bbd9219ae2804eb2650c3d33a",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Centesimus Annus.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Pastores Dabo Vobis.pdf": {
+      "hash": "c4a40e57514a61bdc8af7b9522bc2d6c",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Pastores Dabo Vobis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Veritatis Splendor.pdf": {
+      "hash": "c09c0d60f1bef253b5f74f65f0effdf2",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Veritatis Splendor.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Tertio Millennio Adveniente.pdf": {
+      "hash": "c23f0c2a0733d68a81f4cf3c962c7c46",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Tertio Millennio Adveniente.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Evangelium Vitae.pdf": {
+      "hash": "ca8fbda319a8c75076449843ad169021",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Evangelium Vitae.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Ut Unum Sint.pdf": {
+      "hash": "948ee99f9d24aa5c9b6011d7e0cdedaa",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Ut Unum Sint.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Universi Dominici Gregis.pdf": {
+      "hash": "06ebad4ea4fbc503fa33a0d2a2fcf2a5",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Universi Dominici Gregis.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Vita Consecrata.pdf": {
+      "hash": "7f53041d0a8a8a34c54a4d308b0872c9",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Vita Consecrata.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Dies Domini.pdf": {
+      "hash": "c053bd0b65390fdc65800828a728ef23",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Dies Domini.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Fides et Ratio.pdf": {
+      "hash": "863937cc5d1ef1bb4eb850f7a550cca8",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Fides et Ratio.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Novo Millenio Ineunte.pdf": {
+      "hash": "83f0ca839b8c1a5524fd6dbd2860f02d",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Novo Millenio Ineunte.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
+    },
+    ".raw/Giovanni Paolo II - Ecclesia de Eucharistia.pdf": {
+      "hash": "e0a2119b9afca95b0d89dcf15c989599",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Giovanni Paolo II - Ecclesia de Eucharistia.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/Giovanni Paolo II.md"
+      ]
     }
   },
   "address_map": {
@@ -1389,6 +2034,50 @@
     "wiki/concepts/Query-Time Retrieval.md": "c-000160",
     "wiki/concepts/Source-First Synthesis.md": "c-000161",
     "wiki/comparisons/cherry-picks.md": "c-000162",
-    "wiki/sources/Francesco - Laudato Sì.md": "c-000163"
+    "wiki/sources/Francesco - Laudato Sì.md": "c-000163",
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/sources/Pio XII - Mystici Corporis Christi.md": "c-000165",
+    "wiki/sources/Pio XII - Mediator Dei.md": "c-000166",
+    "wiki/sources/Pio XII - Haurietis Aquas.md": "c-000167",
+    "wiki/sources/Giovanni XXIII - Mater et Magistra.md": "c-000168",
+    "wiki/sources/Giovanni XXIII - Pacem in Terris.md": "c-000169",
+    "wiki/sources/Paolo VI - Ecclesiam Suam.md": "c-000170",
+    "wiki/sources/Paolo VI - Sacerdotalis Caelibatus.md": "c-000172",
+    "wiki/sources/Paolo VI - Evangelii Nuntiandi.md": "c-000171",
+    "wiki/sources/Benedetto XVI - Deus Caritas Est.md": "c-000173",
+    "wiki/sources/Benedetto XVI - Sacramentum Caritatis.md": "c-000174",
+    "wiki/sources/Benedetto XVI - Spe Salvi.md": "c-000175",
+    "wiki/sources/Benedetto XVI - Caritas in Veritate.md": "c-000176",
+    "wiki/sources/Benedetto XVI - Verbum Domini.md": "c-000177",
+    "wiki/sources/Benedetto XVI - Africae Munus.md": "c-000178",
+    "wiki/sources/Benedetto XVI - Ecclesia in Medio Oriente.md": "c-000179",
+    "wiki/sources/Francesco - Evangelii Gaudium.md": "c-000180",
+    "wiki/sources/Francesco - Amoris Laetitia.md": "c-000181",
+    "wiki/sources/Francesco - Gaudete et Exsultate.md": "c-000182",
+    "wiki/sources/Francesco - Christus Vivit.md": "c-000183",
+    "wiki/sources/Francesco - Querida Amazonia.md": "c-000184",
+    "wiki/sources/Francesco - Fratelli Tutti.md": "c-000185",
+    "wiki/sources/Giovanni Paolo II - Redemptor Hominis.md": "c-000186",
+    "wiki/sources/Giovanni Paolo II - Catechesi Tradendae.md": "c-000187",
+    "wiki/sources/Giovanni Paolo II - Dives in Misericordia.md": "c-000188",
+    "wiki/sources/Giovanni Paolo II - Laborem Exercens.md": "c-000189",
+    "wiki/sources/Giovanni Paolo II - Familiaris Consortio.md": "c-000190",
+    "wiki/sources/Giovanni Paolo II - Dominum et Vivificantem.md": "c-000191",
+    "wiki/sources/Giovanni Paolo II - Sollecitudo Rei Socialis.md": "c-000192",
+    "wiki/sources/Giovanni Paolo II - Mulieris Dignitatem.md": "c-000193",
+    "wiki/sources/Giovanni Paolo II - Christifideles Laici.md": "c-000194",
+    "wiki/sources/Giovanni Paolo II - Redemptoris Missio.md": "c-000195",
+    "wiki/sources/Giovanni Paolo II - Centesimus Annus.md": "c-000196",
+    "wiki/sources/Giovanni Paolo II - Pastores Dabo Vobis.md": "c-000197",
+    "wiki/sources/Giovanni Paolo II - Veritatis Splendor.md": "c-000198",
+    "wiki/sources/Giovanni Paolo II - Tertio Millennio Adveniente.md": "c-000199",
+    "wiki/sources/Giovanni Paolo II - Evangelium Vitae.md": "c-000200",
+    "wiki/sources/Giovanni Paolo II - Ut Unum Sint.md": "c-000201",
+    "wiki/sources/Giovanni Paolo II - Universi Dominici Gregis.md": "c-000202",
+    "wiki/sources/Giovanni Paolo II - Vita Consecrata.md": "c-000203",
+    "wiki/sources/Giovanni Paolo II - Dies Domini.md": "c-000204",
+    "wiki/sources/Giovanni Paolo II - Fides et Ratio.md": "c-000205",
+    "wiki/sources/Giovanni Paolo II - Novo Millenio Ineunte.md": "c-000206",
+    "wiki/sources/Giovanni Paolo II - Ecclesia de Eucharistia.md": "c-000207"
   }
 }

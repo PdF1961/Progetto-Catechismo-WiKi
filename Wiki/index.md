@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Wiki Index
-updated: 2026-07-12
+updated: 2026-07-18
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-17 | Total pages: 150 | Sources ingested: 111
+Last updated: 2026-07-18 | Total pages: 194 | Sources ingested: 154
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -73,16 +73,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Leone XIII]] — Papa (1878–1903), autore di Rerum Novarum e di otto altre encicliche fondative (status: developing)
 - [[Massoneria]] — società segreta condannata dal magistero pontificio (status: developing)
 - [[Pio XI]] — Papa (1922–1939), scontro dottrinale con fascismo, nazismo e comunismo (status: mature)
-- [[Pio XII]] — Papa (1939–1958), pontificato di guerra, dogma dell'Assunzione, apertura biblica (status: mature)
+- [[Pio XII]] — Papa (1939–1958), pontificato di guerra, dogma dell'Assunzione, apertura biblica, corpus completo (status: mature)
 - [[Benedetto XV]] — Papa (1914–1922), pontificato della Prima Guerra Mondiale, primo Codice di Diritto Canonico, corpus completo (status: mature)
 - [[Pio IX]] — Papa (1846–1878), convocò e presiedette il Concilio Vaticano I (status: developing)
 - [[Concilio Vaticano I]] — XX Concilio Ecumenico (1869–1870), definì primato e infallibilità pontificia (status: mature)
 - [[Concilio Vaticano II]] — XXI Concilio Ecumenico (1962–1965), rinnovamento pastorale, collegialità, ecumenismo (status: mature)
-- [[Giovanni XXIII]] — Papa (1958–1963), convocò il Concilio Vaticano II (status: developing)
-- [[Paolo VI]] — Papa (1963–1978), concluse il Concilio Vaticano II, Humanae Vitae (status: mature)
-- [[Giovanni Paolo II]] — Papa (1978–2005), Codice di Diritto Canonico 1983, Catechismo della Chiesa Cattolica (status: developing)
-- [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona (status: developing)
-- [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale (status: developing)
+- [[Giovanni XXIII]] — Papa (1958–1963), convocò il Concilio Vaticano II, corpus completo (status: mature)
+- [[Paolo VI]] — Papa (1963–1978), concluse il Concilio Vaticano II, Humanae Vitae, corpus completo (status: mature)
+- [[Giovanni Paolo II]] — Papa (1978–2005), Codice di Diritto Canonico 1983, Catechismo della Chiesa Cattolica, corpus completo (status: mature)
+- [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona, corpus completo (status: mature)
+- [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo (status: mature)
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA (status: developing)
 
 ---
@@ -120,15 +120,18 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Pio XI - Ingravescentibus Malis]] — 1937-09-29 | raccomandazione del Rosario
 - [[Pio XII - Radiomessaggio Nell'Ora Grave]] — 1939-08-24 | appello alla pace alla vigilia della guerra
 - [[Pio XII - Summi Pontificatus]] — 1939-10-20 | condanna dello Stato totalitario
+- [[Pio XII - Mystici Corporis Christi]] — 1943-06-29 | la Chiesa come Corpo mistico di Cristo
 - [[Pio XII - Divino Afflante Spiritu]] — 1943-09-30 | apertura degli studi biblici al metodo storico-critico
 - [[Pio XII - Discorso Unione Medico-Biologica San Luca]] — 1944-11-12 | fondamenti dell'etica medica cattolica
 - [[Pio XII - Radiomessaggio ai Popoli del Mondo Intero]] — 1944-12-24 | dottrina cattolica sulla democrazia
 - [[Pio XII - Provida Mater Ecclesia]] — 1947-02-02 | istituzione degli Istituti Secolari
+- [[Pio XII - Mediator Dei]] — 1947-11-20 | natura della sacra liturgia
 - [[Pio XII - Humani Generis]] — 1950-08-22 | condanna della "nuova teologia"
 - [[Pio XII - Munificentissimus Deus]] — 1950-11-01 | dogma dell'Assunzione di Maria
 - [[Pio XII - Sponsa Christi]] — 1950-11-21 | riforma della clausura papale delle monache
 - [[Pio XII - Discorso alle Ostetriche]] — 1951-10-29 | bioetica: aborto, sterilizzazione, metodo del ritmo
 - [[Pio XII - Christus Dominus]] — 1953-01-06 | riforma del digiuno eucaristico
+- [[Pio XII - Haurietis Aquas]] — 1956-05-15 | fondamento dottrinale del culto al Sacro Cuore
 - [[Pio XII - Miranda Prorsus]] — 1957-09-08 | dottrina su cinema, radio e televisione
 - [[Benedetto XV - Ubi Primum]] — 1914-09-08 | primo appello di pace del pontificato
 - [[Benedetto XV - Ad Beatissimi Apostolorum]] — 1914-11-01 | programma di pontificato, diagnosi della crisi europea
@@ -151,20 +154,34 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[CV2 - Sacrosanctum Concilium]] — 1963-12-04 | sacra liturgia
 - (+ altri 11 documenti del Concilio Vaticano II — vedi [[Wiki/sources/_index]])
 - [[Giovanni XXIII - Ad Petri Cathedram]] — 1959-06-29 | prima enciclica: verità, unità, pace
+- [[Giovanni XXIII - Mater et Magistra]] — 1961-05-15 | enciclica sociale
 - [[Giovanni XXIII - Humanae Salutis]] — 1961-12-25 | indizione del Concilio Vaticano II
+- [[Giovanni XXIII - Pacem in Terris]] — 1963-04-11 | pace fondata su verità, giustizia, amore, libertà
 - (+ altri 4 documenti di Giovanni XXIII — vedi [[Wiki/sources/_index]])
-- [[Paolo VI - Humanae Vitae]] — 1968-07-25 | regolazione delle nascite
+- [[Paolo VI - Ecclesiam Suam]] — 1964-08-06 | programma di pontificato, dottrina del dialogo
 - [[Paolo VI - Populorum Progressio]] — 1967-03-26 | sviluppo dei popoli
+- [[Paolo VI - Sacerdotalis Caelibatus]] — 1967-06-24 | difesa del celibato sacerdotale
+- [[Paolo VI - Humanae Vitae]] — 1968-07-25 | regolazione delle nascite
+- [[Paolo VI - Evangelii Nuntiandi]] — 1975-12-08 | evangelizzazione nel mondo contemporaneo
 - (+ altri 9 documenti di Paolo VI — vedi [[Wiki/sources/_index]])
+- [[Giovanni Paolo II - Redemptor Hominis]] — 1979-03-04 | prima enciclica, cristocentrismo
 - [[Giovanni Paolo II - Fidei Depositum]] — 1992-10-11 | promulgazione del Catechismo della Chiesa Cattolica
 - [[Catechismo della Chiesa Cattolica (S. Giovanni Paolo II)]] — 1992-10-11 | sintesi organica della dottrina cattolica
-- (+ altri 6 documenti di Giovanni Paolo II — vedi [[Wiki/sources/_index]])
+- [[Giovanni Paolo II - Veritatis Splendor]] — 1993-08-06 | teologia morale fondamentale
+- [[Giovanni Paolo II - Evangelium Vitae]] — 1995-03-25 | il valore della vita umana
+- [[Giovanni Paolo II - Fides et Ratio]] — 1998-09-14 | fede e ragione
+- (+ altri 24 documenti di Giovanni Paolo II — vedi [[Wiki/sources/_index]])
+- [[Benedetto XVI - Deus Caritas Est]] — 2005-12-25 | prima enciclica, l'amore cristiano
 - [[Benedetto XVI - Discorso di Ratisbona]] — 2006-09-12 | fede, ragione, Logos
+- [[Benedetto XVI - Caritas in Veritate]] — 2009-06-29 | terza enciclica, dottrina sociale
 - [[Benedetto XVI - Declaratio]] — 2013-02-11 | rinuncia al pontificato
-- (+ altri 6 documenti di Benedetto XVI — vedi [[Wiki/sources/_index]])
+- (+ altri 11 documenti di Benedetto XVI — vedi [[Wiki/sources/_index]])
 - [[Francesco - Lumen Fidei]] — 2013-06-29 | prima enciclica, sulla fede
+- [[Francesco - Evangelii Gaudium]] — 2013-11-24 | esortazione programmatica, "Chiesa in uscita"
+- [[Francesco - Amoris Laetitia]] — 2016-03-19 | esortazione post-sinodale sulla famiglia
+- [[Francesco - Fratelli Tutti]] — 2020-10-03 | terza enciclica, fraternità e amicizia sociale
 - [[Francesco - Dilexit Nos]] — 2024-10-24 | quarta enciclica, sul Sacro Cuore
-- (+ altri 2 documenti di Francesco — vedi [[Wiki/sources/_index]])
+- (+ altri 6 documenti di Francesco — vedi [[Wiki/sources/_index]])
 - [[Leone XIV - Magnifica Humanitas]] — 2026-05-15 | prima enciclica, dottrina sociale e IA
 - [[Compendio del Catechismo della Chiesa Cattolica]] — 2005-06-28 | sintesi in 598 domande e risposte
 

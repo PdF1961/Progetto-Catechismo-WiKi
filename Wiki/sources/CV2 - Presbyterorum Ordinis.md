@@ -12,6 +12,7 @@ related:
   - "[[Concilio Vaticano II]]"
   - "[[CV2 - Lumen Gentium]]"
   - "[[CV2 - Optatam Totius]]"
+  - "[[Paolo VI - Sacerdotalis Caelibatus]]"
   - "[[Giovanni Paolo II - Ordinatio Sacerdotalis]]"
 sources:
   - "[[.raw/CV2 - Presbiterorum Ordinis.pdf]]"
@@ -61,7 +62,7 @@ Chiude riconoscendo apertamente le difficoltà del ministero sacerdotale nel mon
 
 ## Perché è rilevante
 
-Testo di riferimento magisteriale sulla teologia e disciplina del sacerdozio ministeriale cattolico contemporaneo, in stretta connessione con [[CV2 - Lumen Gentium]] (di cui applica la teologia del sacerdozio comune e ministeriale) e con [[CV2 - Optatam Totius]] sulla formazione sacerdotale. La riaffermazione del celibato obbligatorio nella Chiesa latina (n. 16) rimarrà la posizione di riferimento del magistero successivo, richiamata esplicitamente in seguito da documenti come *Sacerdotalis Caelibatus* di Paolo VI (1967, bloccato in questo vault).
+Testo di riferimento magisteriale sulla teologia e disciplina del sacerdozio ministeriale cattolico contemporaneo, in stretta connessione con [[CV2 - Lumen Gentium]] (di cui applica la teologia del sacerdozio comune e ministeriale) e con [[CV2 - Optatam Totius]] sulla formazione sacerdotale. La riaffermazione del celibato obbligatorio nella Chiesa latina (n. 16) rimarrà la posizione di riferimento del magistero successivo, richiamata esplicitamente in seguito da documenti come [[Paolo VI - Sacerdotalis Caelibatus]] (1967), che ne sviluppa sistematicamente le ragioni teologiche.
 
 ## Fonte
 

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Sources Index
-updated: 2026-04-07
+updated: 2026-07-18
 tags:
   - meta
   - index
@@ -74,15 +74,18 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[Pio XI - Ingravescentibus Malis]] — 1937-09-29 | raccomandazione del Rosario
 - [[Pio XII - Radiomessaggio Nell'Ora Grave]] — 1939-08-24 | appello alla pace alla vigilia della guerra
 - [[Pio XII - Summi Pontificatus]] — 1939-10-20 | condanna dello Stato totalitario
+- [[Pio XII - Mystici Corporis Christi]] — 1943-06-29 | la Chiesa come Corpo mistico di Cristo
 - [[Pio XII - Divino Afflante Spiritu]] — 1943-09-30 | apertura degli studi biblici al metodo storico-critico
 - [[Pio XII - Discorso Unione Medico-Biologica San Luca]] — 1944-11-12 | fondamenti dell'etica medica cattolica
 - [[Pio XII - Radiomessaggio ai Popoli del Mondo Intero]] — 1944-12-24 | dottrina cattolica sulla democrazia
 - [[Pio XII - Provida Mater Ecclesia]] — 1947-02-02 | istituzione degli Istituti Secolari
+- [[Pio XII - Mediator Dei]] — 1947-11-20 | natura della sacra liturgia
 - [[Pio XII - Humani Generis]] — 1950-08-22 | condanna della "nuova teologia"
 - [[Pio XII - Munificentissimus Deus]] — 1950-11-01 | dogma dell'Assunzione di Maria
 - [[Pio XII - Sponsa Christi]] — 1950-11-21 | riforma della clausura papale delle monache
 - [[Pio XII - Discorso alle Ostetriche]] — 1951-10-29 | bioetica: aborto, sterilizzazione, metodo del ritmo
 - [[Pio XII - Christus Dominus]] — 1953-01-06 | riforma del digiuno eucaristico
+- [[Pio XII - Haurietis Aquas]] — 1956-05-15 | fondamento dottrinale del culto al Sacro Cuore
 - [[Pio XII - Miranda Prorsus]] — 1957-09-08 | dottrina su cinema, radio e televisione
 - [[Benedetto XV - Ubi Primum]] — 1914-09-08 | primo appello di pace del pontificato
 - [[Benedetto XV - Ad Beatissimi Apostolorum]] — 1914-11-01 | programma di pontificato, diagnosi della crisi europea
@@ -117,38 +120,78 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[Giovanni XXIII - Omelia S. Paolo fuori le Mura]] — 1959-01-25 | annuncio del futuro Concilio
 - [[Giovanni XXIII - Ad Petri Cathedram]] — 1959-06-29 | prima enciclica: verità, unità, pace
 - [[Giovanni XXIII - Prima Romana Synodus]] — 1960-01-25 | prima Sinodo diocesana di Roma dopo 133 anni
+- [[Giovanni XXIII - Mater et Magistra]] — 1961-05-15 | enciclica sociale, magistero e progresso sociale
 - [[Giovanni XXIII - Aeterna Dei Sapientia]] — 1961-11-11 | XV centenario di San Leone Magno
 - [[Giovanni XXIII - Humanae Salutis]] — 1961-12-25 | indizione del Concilio Vaticano II
 - [[Giovanni XXIII - Appropinquante Concilio]] — 1962-08-06 | regolamento procedurale del Concilio
+- [[Giovanni XXIII - Pacem in Terris]] — 1963-04-11 | pace fondata su verità, giustizia, amore, libertà
+- [[Paolo VI - Ecclesiam Suam]] — 1964-08-06 | programma di pontificato, dottrina del dialogo
 - [[Paolo VI - Mysterium Fidei]] — 1965-09-03 | dottrina e culto eucaristico
 - [[Paolo VI - Apostolica Sollicitudo]] — 1965-09-15 | istituzione del Sinodo dei Vescovi
 - [[Paolo VI - Discorso alle Nazioni Unite]] — 1965-10-04 | "Mai più la guerra"
 - [[Paolo VI - Populorum Progressio]] — 1967-03-26 | sviluppo dei popoli
 - [[Paolo VI - Signum Magnum]] — 1967-05-13 | Maria Madre della Chiesa
+- [[Paolo VI - Sacerdotalis Caelibatus]] — 1967-06-24 | difesa del celibato sacerdotale
 - [[Paolo VI - Regimini Ecclesiae Universae]] — 1967-08-15 | riforma della Curia Romana
 - [[Paolo VI - Humanae Vitae]] — 1968-07-25 | regolazione delle nascite
 - [[Paolo VI - Missale Romanum]] — 1969-04-03 | promulgazione del nuovo Messale Romano
 - [[Paolo VI - Octagesima Adveniens]] — 1971-05-14 | 80° di Rerum Novarum, discernimento ideologico
 - [[Paolo VI - Omelia festa di S. Pietro e S. Paolo]] — 1972-06-29 | "il fumo di Satana nel tempio di Dio"
 - [[Paolo VI - Gaudete in Domino]] — 1975-05-09 | esortazione sulla gioia cristiana
+- [[Paolo VI - Evangelii Nuntiandi]] — 1975-12-08 | evangelizzazione nel mondo contemporaneo
 - [[Giovanni Paolo II - Omelia di Inizio Pontificato]] — 1978-10-22 | "Non abbiate paura!"
+- [[Giovanni Paolo II - Redemptor Hominis]] — 1979-03-04 | prima enciclica, cristocentrismo
+- [[Giovanni Paolo II - Catechesi Tradendae]] — 1979-10-16 | esortazione sulla catechesi cristocentrica
+- [[Giovanni Paolo II - Dives in Misericordia]] — 1980-11-30 | seconda enciclica, la misericordia divina
+- [[Giovanni Paolo II - Laborem Exercens]] — 1981-09-14 | enciclica sul lavoro umano
+- [[Giovanni Paolo II - Familiaris Consortio]] — 1981-11-22 | esortazione sui compiti della famiglia cristiana
 - [[Giovanni Paolo II - Sacrae Disciplinae Legis]] — 1983-01-25 | promulgazione del nuovo Codice di Diritto Canonico
 - [[Giovanni Paolo II - Spirituali Militum Curae]] — 1986-04-24 | riforma della cura pastorale dei militari
+- [[Giovanni Paolo II - Dominum et Vivificantem]] — 1986-05-18 | terza enciclica trinitaria, lo Spirito Santo
+- [[Giovanni Paolo II - Sollecitudo Rei Socialis]] — 1987-12-30 | enciclica sociale, 20° di Populorum Progressio
+- [[Giovanni Paolo II - Mulieris Dignitatem]] — 1988-08-15 | lettera sulla dignità e vocazione della donna
+- [[Giovanni Paolo II - Christifideles Laici]] — 1988-12-30 | esortazione sui fedeli laici
+- [[Giovanni Paolo II - Redemptoris Missio]] — 1990-12-07 | enciclica sull'attività missionaria ad gentes
+- [[Giovanni Paolo II - Centesimus Annus]] — 1991-05-01 | enciclica sociale, centenario di Rerum Novarum
+- [[Giovanni Paolo II - Pastores Dabo Vobis]] — 1992-03-25 | esortazione sulla formazione sacerdotale
 - [[Giovanni Paolo II - Fidei Depositum]] — 1992-10-11 | promulgazione del Catechismo della Chiesa Cattolica
 - [[Catechismo della Chiesa Cattolica (S. Giovanni Paolo II)]] — 1992-10-11 | sintesi organica della dottrina cattolica
 - [[Giovanni Paolo II - Visita Pastorale a Centro Ettore Majorana di Erice]] — 1993-05-08 | dialogo scienza-fede
+- [[Giovanni Paolo II - Veritatis Splendor]] — 1993-08-06 | enciclica di teologia morale fondamentale
 - [[Giovanni Paolo II - Ordinatio Sacerdotalis]] — 1994-05-22 | ordinazione sacerdotale riservata agli uomini
+- [[Giovanni Paolo II - Tertio Millennio Adveniente]] — 1994-11-10 | lettera di preparazione al Giubileo 2000
+- [[Giovanni Paolo II - Evangelium Vitae]] — 1995-03-25 | enciclica sul valore della vita umana
+- [[Giovanni Paolo II - Ut Unum Sint]] — 1995-05-25 | enciclica sull'impegno ecumenico
+- [[Giovanni Paolo II - Universi Dominici Gregis]] — 1996-02-22 | costituzione sulla vacanza della Sede Apostolica
+- [[Giovanni Paolo II - Vita Consecrata]] — 1996-03-25 | esortazione sulla vita consacrata
+- [[Giovanni Paolo II - Dies Domini]] — 1998-05-31 | lettera sulla santificazione della domenica
+- [[Giovanni Paolo II - Fides et Ratio]] — 1998-09-14 | enciclica su fede e ragione
+- [[Giovanni Paolo II - Novo Millenio Ineunte]] — 2001-01-06 | lettera di chiusura del Grande Giubileo
 - [[Giovanni Paolo II - Rosarium Virginis Mariae]] — 2002-10-16 | Anno del Rosario, "misteri della luce"
+- [[Giovanni Paolo II - Ecclesia de Eucharistia]] — 2003-04-17 | enciclica eucaristica
 - [[Benedetto XVI - Discorso alla Curia Romana (Ermeneutica)]] — 2005-12-22 | ermeneutica della continuità
+- [[Benedetto XVI - Deus Caritas Est]] — 2005-12-25 | prima enciclica, l'amore cristiano
 - [[Benedetto XVI - Discorso di Ratisbona]] — 2006-09-12 | fede, ragione, Logos
+- [[Benedetto XVI - Sacramentum Caritatis]] — 2007-02-22 | esortazione post-sinodale sull'Eucaristia
 - [[Benedetto XVI - Lettera ai Fedeli della Repubblica Popolare Cinese]] — 2007-05-27 | la Chiesa cattolica in Cina
 - [[Benedetto XVI - Summorum Pontificum]] — 2007-07-07 | liberalizzazione del Messale Romano 1962
+- [[Benedetto XVI - Spe Salvi]] — 2007-11-30 | seconda enciclica, la speranza cristiana
 - [[Benedetto XVI - Discorso al Collège des Bernardins]] — 2008-09-12 | radici monastiche della cultura occidentale
+- [[Benedetto XVI - Caritas in Veritate]] — 2009-06-29 | terza enciclica, dottrina sociale
 - [[Benedetto XVI - Discorso di Westminster Hall]] — 2010-09-17 | fede, ragione e democrazia
+- [[Benedetto XVI - Verbum Domini]] — 2010-09-30 | esortazione post-sinodale sulla Parola di Dio
+- [[Benedetto XVI - Africae Munus]] — 2011-11-19 | esortazione post-sinodale per l'Africa
+- [[Benedetto XVI - Ecclesia in Medio Oriente]] — 2012-09-14 | esortazione post-sinodale per il Medio Oriente
 - [[Benedetto XVI - Latina Lingua]] — 2012-11-10 | Pontificia Accademia di Latinità
 - [[Benedetto XVI - Declaratio]] — 2013-02-11 | rinuncia al pontificato
 - [[Francesco - Lumen Fidei]] — 2013-06-29 | prima enciclica, sulla fede
+- [[Francesco - Evangelii Gaudium]] — 2013-11-24 | esortazione programmatica, "Chiesa in uscita"
 - [[Francesco - Laudato Sì]] — 2015-05-24 | seconda enciclica, ecologia integrale
+- [[Francesco - Amoris Laetitia]] — 2016-03-19 | esortazione post-sinodale sulla famiglia
+- [[Francesco - Gaudete et Exsultate]] — 2018-03-19 | esortazione sulla chiamata universale alla santità
+- [[Francesco - Christus Vivit]] — 2019-03-25 | esortazione post-sinodale ai giovani
+- [[Francesco - Querida Amazonia]] — 2020-02-02 | esortazione post-sinodale sull'Amazzonia
+- [[Francesco - Fratelli Tutti]] — 2020-10-03 | terza enciclica, fraternità e amicizia sociale
 - [[Francesco - Desiderio Desideravi]] — 2022-06-29 | formazione liturgica
 - [[Francesco - Laudate Deum]] — 2023-10-04 | crisi climatica
 - [[Francesco - Dilexit Nos]] — 2024-10-24 | quarta enciclica, sul Sacro Cuore

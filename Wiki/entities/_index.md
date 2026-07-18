@@ -29,13 +29,13 @@ All entity pages — people, organizations, products, and tools.
 - [[Pio X]] — Papa (1903–1914), promotore del catechismo unico per la diocesi di Roma
 - [[Leone XIII]] — Papa (1878–1903), autore di Rerum Novarum, Aeterni Patris, Immortale Dei e altre encicliche fondative
 - [[Pio XI]] — Papa (1922–1939), scontro dottrinale con fascismo, nazismo e comunismo
-- [[Pio XII]] — Papa (1939–1958), pontificato di guerra, dogma dell'Assunzione, apertura biblica
+- [[Pio XII]] — Papa (1939–1958), pontificato di guerra, dogma dell'Assunzione, apertura biblica, corpus completo
 - [[Benedetto XV]] — Papa (1914–1922), pontificato della Prima Guerra Mondiale, primo Codice di Diritto Canonico
-- [[Giovanni XXIII]] — Papa (1958–1963), convocò il Concilio Vaticano II, Ad Petri Cathedram
-- [[Paolo VI]] — Papa (1963–1978), concluse il Concilio Vaticano II, Humanae Vitae, Populorum Progressio
-- [[Giovanni Paolo II]] — Papa (1978–2005), Codice di Diritto Canonico 1983, Catechismo della Chiesa Cattolica
-- [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona, rinuncia al pontificato
-- [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale
+- [[Giovanni XXIII]] — Papa (1958–1963), convocò il Concilio Vaticano II, Ad Petri Cathedram, corpus completo
+- [[Paolo VI]] — Papa (1963–1978), concluse il Concilio Vaticano II, Humanae Vitae, Populorum Progressio, corpus completo
+- [[Giovanni Paolo II]] — Papa (1978–2005), Codice di Diritto Canonico 1983, Catechismo della Chiesa Cattolica, corpus completo
+- [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona, rinuncia al pontificato, corpus completo
+- [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA
 
 ---

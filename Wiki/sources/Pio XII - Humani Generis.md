@@ -3,13 +3,14 @@ type: source
 title: "Humani Generis"
 address: c-000068
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-17
 tags:
   - dottrina
   - source
 status: mature
 related:
   - "[[Pio XII]]"
+  - "[[Pio XII - Mystici Corporis Christi]]"
   - "[[Pio XII - Divino Afflante Spiritu]]"
   - "[[Pio X - Pascendi Dominici Gregis]]"
   - "[[Filosofia Scolastica (Tomismo)]]"
@@ -57,7 +58,7 @@ Il passaggio più duraturo e più citato del documento: il Magistero "non proibi
 
 ### Ecclesiologia: Corpo mistico e Chiesa cattolica
 
-Critica chi "riduce ad una vana formula" la necessità di appartenere alla Chiesa per la salvezza, e riafferma l'identità piena tra Corpo mistico di Cristo e Chiesa cattolica romana (dottrina già esposta nell'enciclica *Mystici Corporis Christi*, 1943 — al momento non ingeribile, vedi nota sul corpus in [[Pio XII]]).
+Critica chi "riduce ad una vana formula" la necessità di appartenere alla Chiesa per la salvezza, e riafferma l'identità piena tra Corpo mistico di Cristo e Chiesa cattolica romana (dottrina già esposta nell'enciclica *Mystici Corporis Christi*, 1943 — vedi [[Pio XII - Mystici Corporis Christi]]).
 
 ## Perché è rilevante
 

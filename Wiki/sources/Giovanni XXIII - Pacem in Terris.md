@@ -1,0 +1,74 @@
+---
+type: source
+title: "Pacem in Terris"
+address: c-000169
+created: 2026-07-17
+updated: 2026-07-17
+tags:
+  - dottrina
+  - source
+status: mature
+related:
+  - "[[Giovanni XXIII]]"
+  - "[[Giovanni XXIII - Mater et Magistra]]"
+  - "[[CV2 - Dignitatis Humanae]]"
+  - "[[CV2 - Gaudium et Spes]]"
+  - "[[Leone XIII - Libertas]]"
+  - "[[Pio XI - Divini Redemptoris]]"
+  - "[[Pio XII - Radiomessaggio ai Popoli del Mondo Intero]]"
+sources:
+  - "[[.raw/Giovanni XXIII - Pacem in Terris.pdf]]"
+source_type: encyclical
+author: "Giovanni XXIII"
+date_published: 1963-04-11
+url: "https://www.vatican.va"
+confidence: high
+key_claims:
+  - "Fonda una teoria sistematica dei diritti e doveri umani direttamente sulla dignità della persona ('ogni essere umano è persona... soggetto di diritti e di doveri che scaturiscono immediatamente e simultaneamente dalla sua stessa natura: diritti e doveri che sono perciò universali, inviolabili, inalienabili'), catalogando in sequenza diritto all'esistenza e a un tenore di vita dignitoso, diritti morali e culturali, diritto di onorare Dio secondo retta coscienza, diritto alla libera scelta dello stato di vita, diritti economici, di associazione, di emigrazione e di partecipazione politica — ciascuno inscindibilmente correlato a un dovere corrispondente."
+  - "Insegna che l'autorità politica deriva da Dio ed è vincolante in coscienza solo in quanto partecipazione dell'ordine morale; una legge in contrasto con quell'ordine 'non ha forza di obbligare la coscienza' e 'cessa di essere legge' per divenire 'atto di violenza' — dottrina esplicitamente dichiarata compatibile con 'ogni sorta di regimi genuinamente democratici', poiché la libera scelta delle persone e delle forme di governo resta prerogativa dei cittadini."
+  - "Estende lo stesso quadro di verità, giustizia, solidarietà e libertà ai rapporti tra Stati: condanna il razzismo e ogni pretesa di superiorità tra popoli, difende i diritti delle minoranze etniche, ed esige — nel pieno della Guerra Fredda, un anno dopo la crisi dei missili di Cuba — che 'venga arrestata la corsa agli armamenti', si riducano reciprocamente gli arsenali esistenti, 'si mettano al bando le armi nucleari' e si giunga al disarmo integrale sotto controlli efficaci."
+  - "Propone l'istituzione, di comune accordo e non con la forza, di un'autorità pubblica mondiale proporzionata alle dimensioni ormai planetarie del bene comune, strutturata secondo il principio di sussidiarietà rispetto alle sovranità nazionali; saluta l'ONU e la Dichiarazione Universale dei Diritti dell'Uomo (1948) come 'un passo importante nel cammino verso l'organizzazione giuridico-politica della comunità mondiale', pur con riserve su punti particolari."
+  - "Indirizzata per la prima volta nella storia pontificia non solo ai vescovi e ai fedeli cattolici ma esplicitamente 'a tutti gli uomini di buona volontà', distingue il dovere di non transigere sull'errore dal dovere di rispettare sempre la persona dell'errante, e distingue le dottrine filosofiche false (permanenti) dai movimenti storici che ne traggono ispirazione (mutevoli, e talora portatori di elementi positivi) — aprendo teologicamente la porta al dialogo e alla collaborazione pratica anche con non cattolici e con movimenti di origine marxista, sotto la guida prudenziale della Chiesa."
+---
+
+# Giovanni XXIII - Pacem in Terris
+
+Navigation: [[index]] | [[hot]] | [[log]]
+
+## Cos'è
+
+Ultima enciclica del pontificato di Giovanni XXIII, datata 11 aprile 1963 (Giovedì Santo), meno di due mesi prima della morte del papa (3 giugno 1963) e scritta nell'immediato dopo-crisi dei missili di Cuba (ottobre 1962). Sottotitolo: "sulla pace fra tutte le genti fondata nella verità, nella giustizia, nell'amore, nella libertà". È il primo documento pontificio della storia indirizzato non soltanto "ai venerabili fratelli Patriarchi, Primati, Arcivescovi, Vescovi... al clero e ai fedeli di tutto il mondo", ma esplicitamente anche "a tutti gli uomini di buona volontà" — allargamento del destinatario che segna una svolta nel genere letterario dell'enciclica stessa, ripreso poi da diversi documenti sociali successivi. Si articola in un'introduzione e cinque parti, ciascuna chiusa da un paragrafo dedicato ai "segni dei tempi": I) l'ordine tra gli esseri umani (persona, diritti, doveri); II) i rapporti tra individui e poteri pubblici dentro le singole comunità politiche; III) i rapporti tra le comunità politiche; IV) i rapporti tra comunità politiche e comunità mondiale; V) richiami pastorali.
+
+## Argomento
+
+### Introduzione: l'ordine dell'universo e l'ordine morale
+
+Il documento apre da un'analogia cosmologica: come l'universo fisico manifesta un "ordine stupendo" impresso dal Creatore, così Dio ha scolpito un ordine anche nell'essere degli uomini, "che la coscienza rivela e ingiunge perentoriamente di seguire" (Rm 2,15). L'errore di fondo che il documento intende correggere è pretendere di regolare i rapporti umani con le stesse leggi meccaniche che governano le forze della natura, anziché con le leggi proprie della natura razionale e libera dell'uomo.
+
+### Parte I — La persona, soggetto di diritti e di doveri
+
+Il nucleo dottrinale più influente dell'enciclica: un catalogo sistematico di diritti umani fondati non su una concessione statale ma direttamente sulla natura razionale e libera della persona, ciascuno "indissolubilmente congiunto" a un dovere corrispondente nella stessa persona e in tutti gli altri. Il catalogo comprende, in successione: il diritto all'esistenza e a un tenore di vita dignitoso (alimentazione, vestiario, abitazione, cure mediche, sicurezza sociale); i diritti riguardanti i valori morali e culturali (libertà di ricerca del vero, di espressione, di istruzione); il diritto di onorare Dio "secondo il dettame della retta coscienza", pubblicamente e privatamente; il diritto alla libertà nella scelta del proprio stato (famiglia o vita consacrata); i diritti economici (iniziativa, lavoro, retribuzione giusta, proprietà privata con funzione sociale); i diritti di riunione e associazione; il diritto di emigrazione e immigrazione; i diritti a contenuto politico (partecipazione alla vita pubblica, tutela giuridica). La convivenza umana è "ordinata, feconda e rispondente alla dignità delle persone" solo quando si fonda insieme su verità, giustizia, amore e libertà — la formula che dà il sottotitolo all'intera enciclica. Il paragrafo sui "segni dei tempi" che chiude la parte individua tre fenomeni storici in atto: l'ascesa economico-sociale e politica delle classi lavoratrici, l'ingresso della donna nella vita pubblica, e la fine dei regimi coloniali con la nascita di comunità politiche indipendenti in Asia e Africa — tre segnali, secondo il papa, della crescente consapevolezza universale dell'eguale dignità di tutti gli esseri umani.
+
+### Parte II — Autorità politica: origine divina e limiti di coscienza
+
+L'autorità pubblica, insegna il documento richiamando san Paolo (Rm 13,1) e san Giovanni Crisostomo, "deriva da Dio": non nel senso che ogni singolo governante sia da lui direttamente costituito, ma nel senso che l'esistenza stessa dell'autorità come funzione necessaria alla convivenza è voluta dall'ordine provvidenziale. Ne segue però un limite decisivo: l'autorità "trae la virtù di obbligare dall'ordine morale", e una legge in contrasto con esso "cessa di essere legge e diviene piuttosto un atto di violenza", senza forza di obbligare la coscienza ("bisogna obbedire a Dio piuttosto che agli uomini", At 5,29). Il documento precisa esplicitamente che questa dottrina "è pienamente conciliabile con ogni sorta di regimi genuinamente democratici", poiché resta libera la scelta delle persone investite dell'autorità e delle strutture con cui essa viene esercitata. Segue una trattazione del bene comune come ragion d'essere dei poteri pubblici e dell'equilibrio tra iniziativa privata e intervento statale, in continuità diretta con [[Giovanni XXIII - Mater et Magistra|Mater et Magistra]].
+
+### Parte III — Rapporti fra le comunità politiche: uguaglianza, minoranze, disarmo
+
+Lo stesso quadro di verità, giustizia, solidarietà operante e libertà regola anche i rapporti internazionali. "Non ci sono esseri umani superiori per natura ed esseri umani inferiori per natura", e di conseguenza "non ci sono neppure comunità politiche superiori... e comunità politiche inferiori": principio da cui discende il rigetto esplicito di ogni ideologia razzista. Un paragrafo dedicato al trattamento delle minoranze etniche ne condanna la compressione forzata e ne richiede la tutela positiva (lingua, cultura, sviluppo economico). Il passaggio più citato della parte è quello sul disarmo: di fronte alla logica dell'equilibrio del terrore ("se una comunità politica produce armi atomiche, le altre devono pure produrre armi atomiche di potenza distruttiva pari"), l'enciclica dichiara che "giustizia, saggezza ed umanità domandano che venga arrestata la corsa agli armamenti, si riducano simultaneamente e reciprocamente gli armamenti già esistenti; si mettano al bando le armi nucleari; e si pervenga finalmente al disarmo integrato da controlli efficaci" — ma osserva che una riduzione degli arsenali resterà velleitaria senza un parallelo "disarmo degli spiriti", cioè il superamento della psicosi bellica reciproca. Chiude la sezione un richiamo, in continuità con *Mater et Magistra*, al rispetto della libertà dei paesi in via di sviluppo economico da parte delle potenze che offrono cooperazione tecnico-finanziaria.
+
+### Parte IV — Verso una comunità mondiale
+
+La parte dottrinalmente più dibattuta del documento. Constatata l'interdipendenza crescente tra le comunità politiche imposta dal progresso scientifico-tecnico, e l'insufficienza dei singoli Stati a fronteggiare da soli problemi ormai di "dimensioni mondiali", l'enciclica sostiene la necessità di "poteri pubblici aventi autorità su piano mondiale", istituiti però "di comune accordo e non imposti con la forza" — altrimenti rischierebbero di divenire strumento delle potenze più forti. Tale autorità mondiale va concepita secondo lo stesso principio di sussidiarietà che regola i rapporti interni alle singole comunità politiche: il suo compito non è "limitare la sfera di azione ai poteri pubblici delle singole comunità politiche... e tanto meno sostituirsi ad essi", ma creare le condizioni perché questi possano meglio adempiere i propri doveri. In questo quadro il documento saluta con favore la costituzione dell'ONU (1945) e in particolare la Dichiarazione Universale dei Diritti dell'Uomo (10 dicembre 1948), definita "un passo importante nel cammino verso l'organizzazione giuridico-politica della comunità mondiale", pur segnalando che "sono state sollevate obiezioni e fondate riserve" su alcuni suoi punti particolari.
+
+### Parte V — Richiami pastorali: dialogo, gradualità, il Principe della pace
+
+L'ultima parte offre indicazioni pratiche ai cattolici: il dovere di impegnarsi nella vita pubblica con competenza scientifico-tecnica oltre che con fede; e, soprattutto, i criteri per i rapporti "con i non cattolici in campo economico-sociale-politico". Qui il documento formula due distinzioni che avranno conseguenze di lungo periodo: primo, "non si dovrà mai confondere l'errore con l'errante", perché la persona che sostiene un errore resta sempre titolare della dignità di persona e resta sempre aperta, in futuro, alla verità; secondo, non si possono identificare "false dottrine filosofiche... con movimenti storici a finalità economiche, sociali, culturali e politiche" da esse originati, perché mentre le dottrine "rimangono sempre le stesse", i movimenti storici "non possono non subirne" l'evolvere delle situazioni, e possono contenere "elementi positivi e meritevoli di approvazione". Ne segue che un incontro pratico giudicato inopportuno ieri può essere legittimo oggi — valutazione affidata alla prudenza, sotto la guida della Chiesa. Il documento si chiude con un appello a "tutti gli uomini di buona volontà" per il "compito immenso" di ricomporre la convivenza nella verità, nella giustizia, nell'amore e nella libertà, e con un'invocazione al "Principe della pace".
+
+## Perché è rilevante
+
+Tra le encicliche più significative del magistero cattolico del Novecento, per almeno tre ragioni concorrenti. Primo, il contesto storico: scritta un anno dopo la crisi dei missili di Cuba, nel momento di massima tensione nucleare della Guerra Fredda, fu letta all'epoca (e viene tuttora letta) come un intervento diretto sulla politica internazionale del momento — pubblicata poche settimane prima della morte del suo autore, ne costituisce il testamento spirituale. Secondo, la forma: l'indirizzo esplicito "a tutti gli uomini di buona volontà" segna la prima volta nella storia che un papa si rivolge formalmente all'umanità intera e non solo ai fedeli cattolici, precedente ripreso da gran parte del magistero sociale successivo. Terzo, il contenuto: il catalogo sistematico di diritti e doveri fondati sulla dignità della persona anticipa e prepara direttamente [[CV2 - Dignitatis Humanae|Dignitatis Humanae]] e [[CV2 - Gaudium et Spes|Gaudium et Spes]] del Concilio Vaticano II, che ne svilupperanno rispettivamente la dottrina della libertà religiosa e l'analisi della Chiesa nel mondo contemporaneo; mentre la proposta di un'autorità pubblica mondiale resta uno dei passaggi più discussi — e più citati, in un senso o nell'altro — di tutto l'insegnamento sociale cattolico contemporaneo, ripreso esplicitamente da Paolo VI nel discorso all'ONU del 1965. Va letta come lo sviluppo diretto della diagnosi sulla sfiducia internazionale con cui si chiudeva [[Giovanni XXIII - Mater et Magistra|Mater et Magistra]] due anni prima, di cui è citata a più riprese nelle note.
+
+## Fonte
+
+`.raw/Giovanni XXIII - Pacem in Terris.pdf` — 19 pagine, scansione priva di livello testuale; trascritta via OCR (Tesseract, `ita+lat`, 200 DPI). Qualità di riconoscimento buona, con i consueti artefatti nelle righe di intestazione/URL ripetute a piè di ogni pagina e occasionali inversioni di riga nella colonna di testo (senza pregiudizio per la leggibilità). Data la rilevanza storica e dottrinale del documento, la lettura è stata più estesa che per un documento di lunghezza comparabile: lettura integrale dell'introduzione e dell'intera Parte I (paragrafi 1-25, il catalogo dei diritti/doveri e i "segni dei tempi"); campionamento mirato, tramite ricerca sui titoli di sezione, delle Parti II-V (origine e limiti dell'autorità, rapporti fra Stati, disarmo, autorità pubblica mondiale, richiami pastorali sul dialogo con i non cattolici); lettura integrale della conclusione (paragrafi 87-91). La copertura è stata incrociata con il sommario analitico riportato in nota alla fine del documento (indice dettagliato di introduzione e cinque parti con tutti i sottotitoli), che ha confermato la struttura argomentativa completa.

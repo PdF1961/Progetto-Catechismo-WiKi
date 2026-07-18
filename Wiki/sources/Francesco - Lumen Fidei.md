@@ -21,7 +21,7 @@ date_published: 2013-06-29
 url: "https://www.vatican.va"
 confidence: high
 key_claims:
-  - "Prima enciclica di Francesco, datata 29 giugno 2013 (SS. Pietro e Paolo), quarta e ultima di una serie 'sulle virtù teologali' iniziata da Benedetto XVI con Deus Caritas Est (carità) e Spe Salvi (speranza) — Francesco dichiara esplicitamente di aver ricevuto da Benedetto XVI 'una prima stesura' quasi completa e di averla assunta 'aggiungendo al testo alcuni ulteriori contributi'."
+  - "Prima enciclica di Francesco, datata 29 giugno 2013 (SS. Pietro e Paolo), quarta e ultima di una serie 'sulle virtù teologali' iniziata da Benedetto XVI con [[Benedetto XVI - Deus Caritas Est|Deus Caritas Est]] (carità) e [[Benedetto XVI - Spe Salvi|Spe Salvi]] (speranza) — Francesco dichiara esplicitamente di aver ricevuto da Benedetto XVI 'una prima stesura' quasi completa e di averla assunta 'aggiungendo al testo alcuni ulteriori contributi'."
   - "Sviluppa la fede come 'luce' — non luce illusoria o soggettiva come sostenuto dalla critica moderna (Nietzsche), ma luce che 'possiede un carattere singolare, essendo capace di illuminare tutta l'esistenza dell'uomo' perché proviene da Dio stesso, nato dall'incontro con l'amore di Dio manifestato in Cristo."
   - "Struttura in quattro capitoli: 'Abbiamo creduto all'amore' (la fede di Abramo e d'Israele, culminante in Cristo), 'Se non crederete, non comprenderete' (il rapporto fede-verità-amore, contro la riduzione post-moderna della verità alla sola tecnologia o al puro soggettivismo), la dimensione ecclesiale/sacramentale della trasmissione della fede, e il rapporto tra fede, famiglia e bene comune."
   - "Chiude con una preghiera a Maria, 'madre della Chiesa e madre della nostra fede', e situa l'enciclica nell'Anno della Fede indetto da Benedetto XVI per il cinquantenario dell'apertura del Concilio Vaticano II."
@@ -33,7 +33,7 @@ Navigation: [[index]] | [[hot]] | [[log]]
 
 ## Cos'è
 
-Prima enciclica di Papa Francesco, datata 29 giugno 2013 (solennità dei Santi Pietro e Paolo, primo anno di pontificato), dedicata alla virtù teologale della fede. Documento di composizione singolare: Benedetto XVI, prima della propria rinuncia, aveva "già quasi completato una prima stesura" come conclusione della propria trilogia sulle virtù teologali (dopo *Deus Caritas Est* sulla carità e *Spe Salvi* sulla speranza, entrambe bloccate in questo vault dalla corruzione dei file). Francesco dichiara esplicitamente: "Gliene sono profondamente grato e, nella fraternità di Cristo, assumo il suo prezioso lavoro, aggiungendo al testo alcuni ulteriori contributi".
+Prima enciclica di Papa Francesco, datata 29 giugno 2013 (solennità dei Santi Pietro e Paolo, primo anno di pontificato), dedicata alla virtù teologale della fede. Documento di composizione singolare: Benedetto XVI, prima della propria rinuncia, aveva "già quasi completato una prima stesura" come conclusione della propria trilogia sulle virtù teologali (dopo [[Benedetto XVI - Deus Caritas Est|Deus Caritas Est]] sulla carità e [[Benedetto XVI - Spe Salvi|Spe Salvi]] sulla speranza). Francesco dichiara esplicitamente: "Gliene sono profondamente grato e, nella fraternità di Cristo, assumo il suo prezioso lavoro, aggiungendo al testo alcuni ulteriori contributi".
 
 ## Argomento
 

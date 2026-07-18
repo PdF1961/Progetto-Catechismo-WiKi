@@ -63,7 +63,7 @@ Il Catechismo distingue nettamente l'Eucaristia-sacramento (cibo delle anime) da
 
 ## Perché è un nodo centrale
 
-Ogni enciclica dottrinale o disciplinare del corpus (specialmente su Eucaristia, Penitenza, Ordine, Matrimonio) presuppone queste definizioni base. Punto di riferimento per confrontare sviluppi successivi (es. *Mediator Dei* di Pio XII sulla liturgia, *Mysterium Fidei* di Paolo VI sull'Eucaristia, *Sacramentum Caritatis* di Benedetto XVI — tutti in `.raw/`, non ancora ingeriti).
+Ogni enciclica dottrinale o disciplinare del corpus (specialmente su Eucaristia, Penitenza, Ordine, Matrimonio) presuppone queste definizioni base. Punto di riferimento per confrontare sviluppi successivi: [[Pio XII - Mediator Dei]] sulla liturgia, [[Paolo VI - Mysterium Fidei]] sull'Eucaristia, [[Benedetto XVI - Sacramentum Caritatis]] sull'Eucaristia post-sinodale.
 
 ## Approfondimento sull'Eucaristia
 
