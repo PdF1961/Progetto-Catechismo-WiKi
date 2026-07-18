@@ -148,6 +148,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[Giovanni Paolo II - Sacrae Disciplinae Legis]] — 1983-01-25 | promulgazione del nuovo Codice di Diritto Canonico
 - [[Giovanni Paolo II - Spirituali Militum Curae]] — 1986-04-24 | riforma della cura pastorale dei militari
 - [[Giovanni Paolo II - Dominum et Vivificantem]] — 1986-05-18 | terza enciclica trinitaria, lo Spirito Santo
+- [[Giovanni Paolo II - Redemptoris Mater]] — 1987-03-25 | enciclica mariana, Maria nella vita della Chiesa in cammino
 - [[Giovanni Paolo II - Sollecitudo Rei Socialis]] — 1987-12-30 | enciclica sociale, 20° di Populorum Progressio
 - [[Giovanni Paolo II - Mulieris Dignitatem]] — 1988-08-15 | lettera sulla dignità e vocazione della donna
 - [[Giovanni Paolo II - Christifideles Laici]] — 1988-12-30 | esortazione sui fedeli laici

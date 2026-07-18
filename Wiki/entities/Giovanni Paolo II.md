@@ -37,6 +37,7 @@ related:
   - "[[Giovanni Paolo II - Fides et Ratio]]"
   - "[[Giovanni Paolo II - Novo Millenio Ineunte]]"
   - "[[Giovanni Paolo II - Ecclesia de Eucharistia]]"
+  - "[[Giovanni Paolo II - Redemptoris Mater]]"
 entity_type: person
 role: "Papa (1978–2005)"
 first_mentioned: "[[Giovanni Paolo II - Omelia di Inizio Pontificato]]"
@@ -46,7 +47,7 @@ first_mentioned: "[[Giovanni Paolo II - Omelia di Inizio Pontificato]]"
 
 Navigation: [[index]] | [[hot]] | [[log]]
 
-Karol Wojtyła (1920–2005), arcivescovo di Cracovia, eletto papa il 16 ottobre 1978 — primo pontefice non italiano dal 1523, primo polacco della storia. Uno dei pontificati più lunghi (quasi 27 anni) e più intensamente viaggianti della storia della Chiesa. Promulgò il nuovo Codice di Diritto Canonico (1983) e il Catechismo della Chiesa Cattolica (1992), applicando sistematicamente l'ecclesiologia del Concilio Vaticano II — di cui era stato padre conciliare — a livello sia normativo che catechetico. Con il recupero delle 22 encicliche, esortazioni e lettere un tempo bloccate da corpus corrotto, il corpus ingerito ora copre l'intera architettura dottrinale del pontificato.
+Karol Wojtyła (1920–2005), arcivescovo di Cracovia, eletto papa il 16 ottobre 1978 — primo pontefice non italiano dal 1523, primo polacco della storia. Uno dei pontificati più lunghi (quasi 27 anni) e più intensamente viaggianti della storia della Chiesa. Promulgò il nuovo Codice di Diritto Canonico (1983) e il Catechismo della Chiesa Cattolica (1992), applicando sistematicamente l'ecclesiologia del Concilio Vaticano II — di cui era stato padre conciliare — a livello sia normativo che catechetico. Con il recupero delle 22 encicliche, esortazioni e lettere un tempo bloccate da corpus corrotto, più l'enciclica mariana *Redemptoris Mater* fornita successivamente dall'utente, il corpus ingerito ora copre l'intera architettura dottrinale del pontificato.
 
 ## Documenti ingeriti (ordine cronologico)
 
@@ -61,6 +62,7 @@ Karol Wojtyła (1920–2005), arcivescovo di Cracovia, eletto papa il 16 ottobre
 | 1983-01-25 | [[Giovanni Paolo II - Sacrae Disciplinae Legis]] | promulgazione del nuovo Codice di Diritto Canonico |
 | 1986-04-24 | [[Giovanni Paolo II - Spirituali Militum Curae]] | riforma della cura pastorale dei militari |
 | 1986-05-18 | [[Giovanni Paolo II - Dominum et Vivificantem]] | terza enciclica trinitaria, lo Spirito Santo |
+| 1987-03-25 | [[Giovanni Paolo II - Redemptoris Mater]] | enciclica mariana, Maria "precede" il cammino di fede della Chiesa |
 | 1987-12-30 | [[Giovanni Paolo II - Sollecitudo Rei Socialis]] | enciclica sociale, 20° di Populorum Progressio, "strutture di peccato" |
 | 1988-08-15 | [[Giovanni Paolo II - Mulieris Dignitatem]] | lettera sulla dignità e vocazione della donna |
 | 1988-12-30 | [[Giovanni Paolo II - Christifideles Laici]] | esortazione sui fedeli laici |
@@ -87,7 +89,7 @@ Karol Wojtyła (1920–2005), arcivescovo di Cracovia, eletto papa il 16 ottobre
 
 Il pontificato di Wojtyła, ora ingerito nella sua quasi totalità, si articola lungo otto assi principali che si intrecciano cronologicamente lungo i suoi 27 anni.
 
-**La trilogia trinitaria d'apertura**: [[Giovanni Paolo II - Redemptor Hominis|Redemptor Hominis]] (1979, sul Figlio, con la tesi programmatica "l'uomo è la via della Chiesa"), [[Giovanni Paolo II - Dives in Misericordia|Dives in Misericordia]] (1980, sul Padre, la misericordia come "fonte più profonda della giustizia") e [[Giovanni Paolo II - Dominum et Vivificantem|Dominum et Vivificantem]] (1986, sullo Spirito Santo, letto nel discorso di addio giovanneo) formano un ciclo esplicitamente concepito come tale — cristocentrismo, paternità misericordiosa e azione pneumatologica come tre volti complementari dello stesso mistero — e pongono le fondamenta antropologico-teologiche dell'intero magistero successivo.
+**La trilogia trinitaria d'apertura, con coronamento mariano**: [[Giovanni Paolo II - Redemptor Hominis|Redemptor Hominis]] (1979, sul Figlio, con la tesi programmatica "l'uomo è la via della Chiesa"), [[Giovanni Paolo II - Dives in Misericordia|Dives in Misericordia]] (1980, sul Padre, la misericordia come "fonte più profonda della giustizia") e [[Giovanni Paolo II - Dominum et Vivificantem|Dominum et Vivificantem]] (1986, sullo Spirito Santo, letto nel discorso di addio giovanneo) formano un ciclo esplicitamente concepito come tale — cristocentrismo, paternità misericordiosa e azione pneumatologica come tre volti complementari dello stesso mistero — e pongono le fondamenta antropologico-teologiche dell'intero magistero successivo. [[Giovanni Paolo II - Redemptoris Mater|Redemptoris Mater]] (1987) segue a distanza di un anno da *Dominum et Vivificantem* come sviluppo mariano della stessa trilogia: Maria "precede" il pellegrinaggio di fede della Chiesa, e la sua mediazione — sempre "partecipata", mai autonoma rispetto all'unica mediazione di Cristo — offre la sintesi mariologica dell'intero impianto trinitario-antropologico degli anni '80.
 
 **La trilogia sociale**: [[Giovanni Paolo II - Laborem Exercens|Laborem Exercens]] (1981, 90° di Rerum Novarum, priorità del lavoro sul capitale), [[Giovanni Paolo II - Sollecitudo Rei Socialis|Sollecitudo Rei Socialis]] (1987, 20° di Populorum Progressio, le "strutture di peccato" e il rifiuto esplicito di ogni "terza via" tra capitalismo e collettivismo) e [[Giovanni Paolo II - Centesimus Annus|Centesimus Annus]] (1991, centenario di Rerum Novarum, letto alla luce del crollo dei regimi comunisti del 1989-90, con la distinzione tra "economia d'impresa" legittima e capitalismo assoluto illegittimo) costituiscono insieme il più ampio corpus sociale di un singolo pontificato, in continuità diretta con [[Leone XIII - Rerum Novarum|Rerum Novarum]] e [[Paolo VI - Populorum Progressio|Populorum Progressio]].
 
@@ -97,7 +99,7 @@ Il pontificato di Wojtyła, ora ingerito nella sua quasi totalità, si articola 
 
 **La trilogia della verità**: [[Giovanni Paolo II - Veritatis Splendor|Veritatis Splendor]] (1993, fondamenti di teologia morale, libertà subordinata alla verità, atti intrinsecamente cattivi), [[Giovanni Paolo II - Evangelium Vitae|Evangelium Vitae]] (1995, il vangelo della vita contro la "cultura di morte", condanna solenne di aborto ed eutanasia) e [[Giovanni Paolo II - Fides et Ratio|Fides et Ratio]] (1998, le "due ali" di fede e ragione, in ripresa esplicita di [[Leone XIII - Aeterni Patris|Aeterni Patris]] e [[Pio XII - Humani Generis|Humani Generis]]) affrontano, da tre angolazioni — morale concreta, bioetica, epistemologia — la stessa crisi del relativismo contemporaneo diagnosticata già in [[Giovanni Paolo II - Redemptor Hominis|Redemptor Hominis]].
 
-**Missione ed ecumenismo**: [[Giovanni Paolo II - Redemptoris Missio|Redemptoris Missio]] (1990, unicità di Cristo mediatore, missione ad gentes distinta dalla nuova evangelizzazione) e [[Giovanni Paolo II - Ut Unum Sint|Ut Unum Sint]] (1995, impegno ecumenico "irreversibile", incluso lo storico appello a ripensare insieme le forme di esercizio del primato petrino) rappresentano il versante ad extra del pontificato, tenendo insieme fermezza dottrinale sull'unicità della salvezza in Cristo e apertura dialogica senza precedenti.
+**Missione ed ecumenismo**: [[Giovanni Paolo II - Redemptoris Missio|Redemptoris Missio]] (1990, unicità di Cristo mediatore, missione ad gentes distinta dalla nuova evangelizzazione) e [[Giovanni Paolo II - Ut Unum Sint|Ut Unum Sint]] (1995, impegno ecumenico "irreversibile", incluso lo storico appello a ripensare insieme le forme di esercizio del primato petrino) rappresentano il versante ad extra del pontificato, tenendo insieme fermezza dottrinale sull'unicità della salvezza in Cristo e apertura dialogica senza precedenti — impegno già anticipato nella sezione ecumenica di *Redemptoris Mater* (1987) sulla venerazione mariana comune agli Orientali separati.
 
 **Il cammino giubilare**: [[Giovanni Paolo II - Tertio Millennio Adveniente|Tertio Millennio Adveniente]] (1994, preparazione trinitaria triennale al Grande Giubileo, esame di coscienza storico della Chiesa) e [[Giovanni Paolo II - Novo Millenio Ineunte|Novo Millenio Ineunte]] (2001, chiusura del Giubileo, l'appello "Duc in altum" e il primato della santità e della grazia sulla programmazione pastorale) incorniciano l'Anno Santo 2000, il vertice simbolico dell'intero pontificato.
 
@@ -109,4 +111,4 @@ Filo unificante di tutte queste linee: la tesi-cardine di *Redemptor Hominis*, "
 
 ## Fonti in `.raw/` non ancora ingerite
 
-Nessuna lacuna residua da corruzione del corpus. I 22 documenti un tempo bloccati sono stati sostituiti dall'utente con copie funzionanti e sono ora tutti ingeriti (vedi tabella sopra). Resta assente da `.raw/` — non bloccata, semplicemente mai fornita — l'enciclica mariana *Redemptoris Mater* (1987).
+Nessuna. I 22 documenti un tempo bloccati da corpus corrotto sono stati sostituiti dall'utente con copie funzionanti e ingeriti; l'enciclica mariana *Redemptoris Mater* (1987), inizialmente assente da `.raw/`, è stata successivamente fornita dall'utente e ingerita. Il corpus di Giovanni Paolo II presente in `.raw/` è ora completo.

@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-18 | Total pages: 194 | Sources ingested: 154
+Last updated: 2026-07-18 | Total pages: 195 | Sources ingested: 155
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -165,6 +165,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Paolo VI - Evangelii Nuntiandi]] — 1975-12-08 | evangelizzazione nel mondo contemporaneo
 - (+ altri 9 documenti di Paolo VI — vedi [[Wiki/sources/_index]])
 - [[Giovanni Paolo II - Redemptor Hominis]] — 1979-03-04 | prima enciclica, cristocentrismo
+- [[Giovanni Paolo II - Redemptoris Mater]] — 1987-03-25 | enciclica mariana
 - [[Giovanni Paolo II - Fidei Depositum]] — 1992-10-11 | promulgazione del Catechismo della Chiesa Cattolica
 - [[Catechismo della Chiesa Cattolica (S. Giovanni Paolo II)]] — 1992-10-11 | sintesi organica della dottrina cattolica
 - [[Giovanni Paolo II - Veritatis Splendor]] — 1993-08-06 | teologia morale fondamentale

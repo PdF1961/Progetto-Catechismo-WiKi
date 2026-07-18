@@ -21,6 +21,15 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## [2026-07-18] batch-ingest | Redemptoris Mater (Giovanni Paolo II) — ultima lacuna del corpus colmata
+- Su richiesta dell'utente, verificato che *Redemptoris Mater* (1987) fosse davvero assente da `.raw/` (non un caso di corruzione mancato): confermato via ricerca esaustiva del nome file e delle sue varianti, nessuna pagina wiki né voce di manifest preesistente.
+- Tentato il download automatico da vatican.va con lo stesso trucco `.html`→`.pdf` usato in precedenza per Laudato Sì: lo slug corretto (`hf_jp-ii_enc_25031987_redemptoris-mater`) esiste e la pagina `.html` è genuina, ma il `.pdf` ha restituito un placeholder da 1 pagina ("La Santa Sede" + copyright, nessun testo). Verificato che il blocco non è specifico al documento: la stessa richiesta contro altre encicliche di Giovanni Paolo II già ingerite (Centesimus Annus, Evangelium Vitae) e contro un'enciclica di Benedetto XVI restituisce lo stesso placeholder identico byte-per-byte (100.027 byte), mentre un'enciclica di Francesco scarica correttamente — conferma che il blocco server-side documentato il 2026-07-17 dopo il tentativo di download massivo dei 22 file GPII è ancora attivo per i percorsi di Giovanni Paolo II e Benedetto XVI, non risolto da una semplice attesa.
+- L'utente ha quindi fornito manualmente una copia genuina (`.raw/Giovanni Paolo II - Redemptoris Mater.pdf`, md5 `dc87a4ea7415f3dcdb7d97c29c36825d`, 28 pagine, segnatura "webpage-printout" identica agli altri 43 documenti recuperati — sicura, richiede solo OCR).
+- OCR (Tesseract, `ita+lat`, 200 DPI) e lettura: introduzione e Parte I integrali ("Piena di grazia", "Beata colei che ha creduto"), Parte II campionata su Cana di Galilea, la scena della Croce e la sezione ecumenica ("Il cammino della Chiesa e l'unità di tutti i cristiani"), Parte III integrale ("Mediazione materna", il *fiat* di Maria come "serva del Signore"), conclusione integrale incluso il congedo pontificio.
+- Creata [[Giovanni Paolo II - Redemptoris Mater]] (c-000208). Aggiornata l'entità [[Giovanni Paolo II]]: aggiunta riga alla tabella, integrata nella trilogia trinitaria d'apertura come coronamento mariano, collegata alla sezione ecumenismo, sezione "Fonti non ancora ingerite" ora dichiara il corpus completo senza eccezioni.
+- Manifest aggiornato (155 sources, 190 address_map); counter avanzato da 208 a 209. Aggiornati [[index]], [[overview]], [[Wiki/sources/_index]], [[hot]].
+- **Il corpus di Giovanni Paolo II — e l'intero vault — non ha più alcuna lacuna di contenuto nota.**
+
 ## [2026-07-18] wiki-lint | Lint pass post-batch recupero 43 documenti
 - Report: [[lint-report-2026-07-18]]
 - Eseguito su richiesta dell'utente ("lint the wiki when done") subito dopo il completamento e consolidamento del batch di recupero dei 43 documenti (vedi voce precedente).
