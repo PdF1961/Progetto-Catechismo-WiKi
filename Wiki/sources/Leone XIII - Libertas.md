@@ -3,7 +3,7 @@ type: source
 title: "Leone XIII - Libertas"
 address: c-000037
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-18
 tags:
   - dottrina
   - source
@@ -12,6 +12,7 @@ related:
   - "[[Leone XIII]]"
   - "[[Libertà (dottrina cattolica)]]"
   - "[[Rapporti Chiesa-Stato]]"
+  - "[[Romano Amerio - Iota Unum]]"
 sources:
   - "[[.raw/Leone XIII - Libertas.pdf]]"
 source_type: article
@@ -45,7 +46,7 @@ Enciclica sulla natura della libertà umana (20 giugno 1888, anno XI di pontific
 
 ## Perché è rilevante
 
-Il testo più citato dai commentatori successivi (compresi critici come Amerio in *Iota Unum*, non ancora ingerito) per la distinzione tra "libertà" e "Liberalismo" e per la dottrina della tolleranza, ripresa poi nei dibattiti sulla libertà religiosa del XX secolo.
+Il testo più citato dai commentatori successivi — compresi critici tradizionalisti come [[Romano Amerio]] in [[Romano Amerio - Iota Unum]] — per la distinzione tra "libertà" e "Liberalismo" e per la dottrina della tolleranza, ripresa poi nei dibattiti sulla libertà religiosa del XX secolo.
 
 ## Fonte
 

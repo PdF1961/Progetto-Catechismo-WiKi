@@ -3,7 +3,7 @@ type: entity
 title: "Paolo VI"
 address: c-000129
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - dottrina
   - papa
@@ -15,6 +15,8 @@ related:
   - "[[Paolo VI - Humanae Vitae]]"
   - "[[Paolo VI - Populorum Progressio]]"
   - "[[Chiesa Cattolica]]"
+  - "[[Romano Amerio - Iota Unum]]"
+  - "[[Desistenza dell'Autorità (Breviatio Manus)]]"
 entity_type: person
 role: "Papa (1963–1978)"
 first_mentioned: "[[Paolo VI - Apostolica Sollicitudo]]"
@@ -48,6 +50,9 @@ Giovanni Battista Montini (1897–1978), papa dal 1963 al 1978. Succeduto a [[Gi
 ## Ruolo nella dottrina
 
 Il pontificato di Montini si articola, nei documenti ingeriti, lungo quattro assi principali. **Il programma dialogico iniziale**: [[Paolo VI - Ecclesiam Suam]], prima enciclica del 1964, fonda l'intero pontificato sul concetto di "dialogo" — con il mondo, con i credenti di altre religioni, con i cristiani separati, e all'interno della Chiesa stessa — categoria che percorrerà poi tutto il magistero successivo, da [[Paolo VI - Evangelii Nuntiandi|Evangelii Nuntiandi]] al [[Paolo VI - Discorso alle Nazioni Unite|discorso all'ONU]]. **L'attuazione istituzionale del Concilio**: [[Paolo VI - Apostolica Sollicitudo]] istituisce il Sinodo dei Vescovi, [[Paolo VI - Regimini Ecclesiae Universae]] riforma la Curia, [[Paolo VI - Missale Romanum]] promulga la nuova liturgia — tutti atti che traducono in istituzioni permanenti i principi dottrinali del Vaticano II. **L'apertura al mondo**: il [[Paolo VI - Discorso alle Nazioni Unite]] e [[Paolo VI - Populorum Progressio]] proiettano la dottrina sociale cattolica su scala propriamente mondiale, [[Paolo VI - Octagesima Adveniens]] elabora un discernimento critico ma non manicheo delle ideologie del tempo (marxismo, liberalismo), ed [[Paolo VI - Evangelii Nuntiandi]] (1975), frutto del Sinodo del 1974, offre la trattazione magisteriale più organica del secolo sull'evangelizzazione, incluso un bilanciamento influente tra annuncio del Vangelo e liberazione umana nel dibattito allora aperto dalla teologia della liberazione. **La fermezza dottrinale nella temperie postconciliare**: [[Paolo VI - Mysterium Fidei]], [[Paolo VI - Humanae Vitae]] e [[Paolo VI - Sacerdotalis Caelibatus]] mostrano un pontefice capace di riforme profonde sul piano pastorale e istituzionale ma inflessibile su questioni dogmatiche e morali specifiche — *Humanae Vitae* in particolare, la decisione più controversa del pontificato, tenendo ferma la linea di *Casti Connubii* contro le aspettative diffuse di apertura, e *Sacerdotalis Caelibatus* (1967) che, rispondendo alle pressioni post-conciliari per rendere facoltativo il celibato, ne riafferma l'obbligo nella Chiesa latina sviluppando sistematicamente le ragioni già indicate da [[CV2 - Presbyterorum Ordinis]]. L'omelia del 1972 sul "fumo di Satana" rivela la sofferenza personale di un papa che aveva sperato in una recezione più serena delle riforme conciliari.
+
+> [!contradiction] Lettura critica di Amerio: "desistenza dell'autorità"
+> [[Romano Amerio]], in [[Romano Amerio - Iota Unum]] (cap. VI, capitolo cardine del libro), legge l'intero pontificato attraverso la categoria di [[Desistenza dell'Autorità (Breviatio Manus)]]: un papa ortodosso come dottore nei propri atti magisteriali (proprio *Humanae Vitae*, citata da Amerio come "l'atto più importante del pontificato"), ma sistematicamente rinunciatario nel sanzionare disciplinarmente il dissenso episcopale diffuso che ne seguì (Germania, Svizzera, Francia, Olanda, Canada, Inghilterra, Stati Uniti) e lo scisma pastorale olandese. Amerio cita a sostegno dichiarazioni dello stesso Paolo VI (22 giugno 1972: chiamato a "soffrire" più che a "governare e salvare"; discorsi del settembre 1974 sulla Chiesa "destinata a spegnersi") e l'omelia del 1972 sul "fumo di Satana nel tempio di Dio", già presente in questa pagina. Lettura minoritaria e scritta prima della canonizzazione di Paolo VI (2018) — va soppesata con la Nota orientativa (p. Cavalcoli) inclusa nella stessa edizione del libro, che segnala i limiti dell'impianto critico di Amerio.
 
 ## Fonti in `.raw/` non ancora ingerite
 

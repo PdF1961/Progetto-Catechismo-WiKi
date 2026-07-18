@@ -3,7 +3,7 @@ type: entity
 title: "Concilio Vaticano II"
 address: c-000108
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - dottrina
   - concilio
@@ -17,6 +17,7 @@ related:
   - "[[CV2 - Dignitatis Humanae]]"
   - "[[Chiesa Cattolica]]"
   - "[[Modernismo]]"
+  - "[[Romano Amerio - Iota Unum]]"
 entity_type: council
 role: "XXI Concilio Ecumenico della Chiesa Cattolica (1962–1965)"
 first_mentioned: "[[CV2 - Inter Mirifica]]"
@@ -64,6 +65,9 @@ Il Concilio, convocato da Giovanni XXIII con l'intento dichiarato di un "aggiorn
 9. **Chiese orientali e sacerdozio ministeriale**: [[CV2 - Orientalium Ecclesiarum]] riconosce piena pari dignità alle Chiese cattoliche orientali e apre alla *communicatio in sacris* con gli orientali separati; [[CV2 - Presbyterorum Ordinis]] sistematizza la teologia del presbiterato e riafferma il celibato ecclesiastico obbligatorio nella Chiesa latina.
 
 Filo unificante: un concilio pastorale, non dottrinalmente definitorio (nessun anatema, a differenza dei concili precedenti), che non ritratta alcuna definizione dogmatica anteriore ma la ricolloca in un registro di dialogo con la modernità — con il mondo non cattolico, con le altre religioni, con la scienza e la cultura contemporanee.
+
+> [!contradiction] Lettura critica di Amerio: rottura procedurale e dottrinale, non solo sviluppo
+> [[Romano Amerio]], in [[Romano Amerio - Iota Unum]] (capp. III-V), contesta la narrazione di un Concilio sviluppatosi organicamente: documenta presunte rotture della legalità conciliare (13 ottobre e 22 novembre 1962) e un accordo informale con il Patriarcato di Mosca (il cosiddetto "accordo di Metz", 1962, per cui il Concilio non avrebbe condannato il comunismo in cambio della presenza di osservatori ortodossi — da cui l'assenza della parola "comunismo" in ogni testo conciliare). Applica ai singoli documenti il proprio criterio lirinense/newmaniano (sviluppo omogeneo vs. *saltus in aliud*): legge come sviluppo legittimo la dottrina conciliare sulla guerra ([[CV2 - Gaudium et Spes]] 79-80) ma come variazione problematica lo spostamento ecumenico dal *reditus* alla *conversio* ([[CV2 - Unitatis Redintegratio]], formula *subsistit in* di [[CV2 - Lumen Gentium]] 8) e, sul piano dell'attuazione pratica più che del testo, la riforma liturgica di [[CV2 - Sacrosanctum Concilium]]. Lettura minoritaria/tradizionalista, essa stessa criticata nella Nota orientativa (p. Cavalcoli) inclusa nella stessa edizione del libro per il rischio di non distinguere le dottrine conciliari dalla loro ricezione post-conciliare.
 
 ## Fonti in `.raw/` non ancora ingerite
 

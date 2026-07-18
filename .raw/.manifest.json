@@ -1902,6 +1902,27 @@
         "wiki/sources/_index.md",
         "wiki/entities/Giovanni Paolo II.md"
       ]
+    },
+    ".raw/R. Amerio - Iota Unum. Studio sulle Variazioni della Chiesa Cattolica nel XX Secolo.epub": {
+      "hash": "c05ab0e3837b5259957ec45f06ff038a",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Romano Amerio - Iota Unum.md",
+        "wiki/entities/Romano Amerio.md",
+        "wiki/concepts/Pirronismo.md",
+        "wiki/concepts/Mobilismo.md",
+        "wiki/concepts/Morale di Situazione.md",
+        "wiki/concepts/Cristianesimo Secondario.md",
+        "wiki/concepts/Desistenza dell'Autorità (Breviatio Manus).md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Paolo VI.md",
+        "wiki/entities/Concilio Vaticano II.md",
+        "wiki/entities/Chiesa Cattolica.md",
+        "wiki/sources/CV2 - Sacrosanctum Concilium.md",
+        "wiki/sources/Paolo VI - Missale Romanum.md",
+        "wiki/sources/Leone XIII - Libertas.md"
+      ]
     }
   },
   "address_map": {
@@ -2094,6 +2115,13 @@
     "wiki/sources/Giovanni Paolo II - Fides et Ratio.md": "c-000205",
     "wiki/sources/Giovanni Paolo II - Novo Millenio Ineunte.md": "c-000206",
     "wiki/sources/Giovanni Paolo II - Ecclesia de Eucharistia.md": "c-000207",
-    "wiki/sources/Giovanni Paolo II - Redemptoris Mater.md": "c-000208"
+    "wiki/sources/Giovanni Paolo II - Redemptoris Mater.md": "c-000208",
+    "wiki/sources/Romano Amerio - Iota Unum.md": "c-000209",
+    "wiki/entities/Romano Amerio.md": "c-000210",
+    "wiki/concepts/Pirronismo.md": "c-000211",
+    "wiki/concepts/Mobilismo.md": "c-000212",
+    "wiki/concepts/Morale di Situazione.md": "c-000213",
+    "wiki/concepts/Cristianesimo Secondario.md": "c-000214",
+    "wiki/concepts/Desistenza dell'Autorità (Breviatio Manus).md": "c-000215"
   }
 }

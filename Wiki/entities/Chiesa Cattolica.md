@@ -3,7 +3,7 @@ type: entity
 title: "Chiesa Cattolica"
 address: c-000019
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-18
 tags:
   - dottrina
   - ecclesiologia
@@ -18,6 +18,7 @@ related:
   - "[[Leone XIII - Praeclara Gratulationis]]"
   - "[[CV2 - Lumen Gentium]]"
   - "[[CV1 - Pastor Aeternus]]"
+  - "[[Romano Amerio - Iota Unum]]"
 entity_type: organization
 role: "Istituzione fondata da Gesù Cristo, guidata dal Papa e dai Vescovi"
 first_mentioned: "[[Catechismo della Dottrina Cristiana (S. Pio X)]]"
@@ -63,4 +64,7 @@ Vedi [[Precetti della Chiesa]] per i cinque precetti generali con cui la Chiesa 
 [[Leone XIII - Praeclara Gratulationis]] (1894) è un appello — insolito per il tono, un secolo prima del movimento ecumenico del XX secolo — al ritorno all'unità rivolto alle Chiese orientali, ai popoli slavi e alle comunità nate dalla Riforma, pur mantenendo ferma la dottrina qui sopra sulle quattro note e il primato romano.
 
 > [!note] Gap — sviluppo dottrinale post-conciliare
-> Questa voce riflette l'ecclesiologia pre-conciliare (identificazione stretta Chiesa di Cristo = Chiesa Cattolica-Romana). Da confrontare, quando verranno ingerite, con *Lumen Gentium* (CV2) — che introduce la formula "subsistit in" — e con gli scritti di Amerio (*Iota Unum*) sulla continuità/discontinuità di questo sviluppo.
+> Questa voce riflette l'ecclesiologia pre-conciliare (identificazione stretta Chiesa di Cristo = Chiesa Cattolica-Romana). Da confrontare con [[CV2 - Lumen Gentium]], che introduce la formula "subsistit in" (LG 8), non ancora ingerita come pagina propria in questo vault.
+
+> [!contradiction] Lettura critica di Amerio sul *subsistit in*
+> [[Romano Amerio]], in [[Romano Amerio - Iota Unum]] (cap. XXXV, "L'ecumenismo"), legge il passaggio lessicale da "la Chiesa di Cristo *è*" a "*sussiste in*" la Chiesa cattolica come una variazione dottrinale significativa, non un semplice chiarimento terminologico: a suo giudizio relativizza la pretesa di questa pagina (identificazione stretta con la Chiesa di Cristo), aprendo teologicamente alla parità tra confessioni cristiane implicita nel passaggio, sempre nella sua lettura, da un ecumenismo di *reditus* (ritorno dei separati) a uno di *conversio* comune verso un "Cristo totale" esterno a ciascuna Chiesa. Questa lettura è minoritaria/tradizionalista — va soppesata con la Nota orientativa (p. Cavalcoli) inclusa nella stessa edizione di *Iota Unum*, che segnala il rischio di sopravvalutare la discontinuità dottrinale del Concilio.

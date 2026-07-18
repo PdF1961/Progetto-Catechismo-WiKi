@@ -3,7 +3,7 @@ type: source
 title: "Sacrosanctum Concilium"
 address: c-000156
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - dottrina
   - source
@@ -14,6 +14,7 @@ related:
   - "[[Paolo VI - Missale Romanum]]"
   - "[[Benedetto XVI - Summorum Pontificum]]"
   - "[[Francesco - Desiderio Desideravi]]"
+  - "[[Romano Amerio - Iota Unum]]"
 sources:
   - "[[.raw/CV2 - Sacrosantum Concilium.pdf]]"
 source_type: constitution
@@ -65,6 +66,9 @@ Dichiara che il Concilio "non ha nulla in contrario" a fissare la Pasqua a una d
 ## Perché è rilevante
 
 Documento fondativo di tutta la riforma liturgica cattolica contemporanea, citato indirettamente decine di volte nei documenti già presenti in questo vault senza mai essere stato esso stesso ingerito fino a questo batch supplementare — in particolare da [[Francesco - Desiderio Desideravi]], che ne cita l'articolo 7 e ne fa il fondamento teologico per riaffermare la riforma liturgica di Paolo VI contro le richieste di ritorno al rito antico. Apre l'arco liturgico completo già tracciato in questo vault: *Sacrosanctum Concilium* (1963, principi) → [[Paolo VI - Missale Romanum]] (1969, attuazione) → [[Benedetto XVI - Summorum Pontificum]] (2007, liberalizzazione del rito antico) → [[Francesco - Desiderio Desideravi]] (2022, riaffermazione restrittiva).
+
+> [!contradiction] Lettura critica di Amerio: l'attuazione avrebbe contraddetto la lettera del testo
+> [[Romano Amerio]], in [[Romano Amerio - Iota Unum]] (cap. XXXVIII, "La riforma liturgica" — il capitolo più esteso e documentato del libro), sostiene che l'attuazione pratica della riforma liturgica abbia **contraddetto**, non semplicemente sviluppato, la lettera di questa costituzione: in particolare l'art. 36 (uso della lingua latina "da conservarsi" nei riti latini) e l'art. 116 (canto gregoriano come "canto proprio della liturgia romana", cui riservare "il posto principale") — entrambi, secondo Amerio, sostanzialmente disattesi dalla volgarizzazione integrale della liturgia successiva al 1969. Documenta inoltre, nello stesso capitolo, un discorso di Paolo VI (27 novembre 1969) in cui il Papa stesso riconosce "un grande sacrificio" nella perdita pratica di latino e gregoriano. Vedi anche la nota analoga su [[Paolo VI - Missale Romanum]] per le sue critiche filologiche puntuali alle traduzioni volgari del 1969. Lettura minoritaria/tradizionalista — la stessa Nota orientativa (p. Cavalcoli) inclusa nell'edizione di *Iota Unum* segnala il rischio che Amerio non distingua sempre il testo conciliare dalla sua ricezione pratica.
 
 ## Fonte
 

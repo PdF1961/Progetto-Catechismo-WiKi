@@ -3,7 +3,7 @@ type: source
 title: "Missale Romanum"
 address: c-000122
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - dottrina
   - source
@@ -13,6 +13,7 @@ related:
   - "[[CV2 - Gaudium et Spes]]"
   - "[[Sacramenti]]"
   - "[[Benedetto XVI]]"
+  - "[[Romano Amerio - Iota Unum]]"
 sources:
   - "[[.raw/Paolo VI - Missale Romanum.pdf]]"
 source_type: apostolic_constitution
@@ -56,6 +57,9 @@ In applicazione diretta di *Dei Verbum*, introduce il **ciclo triennale** delle 
 ## Perché è rilevante
 
 È l'atto liturgico più visibile e di maggiore impatto pratico quotidiano dell'intera riforma postconciliare — la Messa celebrata secondo questo Messale (con revisioni successive) resta tuttora la forma ordinaria del rito romano. Applica concretamente la teologia biblica di [[CV2 - Dei Verbum]] (ampliamento delle letture) e la sensibilità pastorale di [[CV2 - Gaudium et Spes]] (semplificazione per favorire la "pia e attiva partecipazione dei fedeli"). La convivenza tra questo Messale e quello tridentino resterà oggetto di successiva regolamentazione, in particolare sotto [[Benedetto XVI]] (*Summorum Pontificum*, 2007, non ancora ingerita).
+
+> [!contradiction] Lettura critica di Amerio: divergenze filologico-teologiche nelle traduzioni volgari
+> [[Romano Amerio]], in [[Romano Amerio - Iota Unum]] (cap. XXXVIII), documenta con esempi filologici puntuali quelle che giudica sistematiche divergenze teologicamente significative tra il testo tipico latino di questo Messale e le sue traduzioni volgari ufficiali: l'eliminazione di alcune proposizioni finali, "pro multis" reso con "per tutti" (sospetto, a suo giudizio, di venatura pelagiana), "largiris" reso con "infondi la forza e doni il premio", *Deus Sabaoth* reso con "Dio dell'universo", e — nel Messale francese — "consubstantialem" reso con "de la même nature" (accusato di venatura ariana). Critica anche l'art. 7 dell'*Institutio Generalis Missalis Romani* allegata a questa stessa costituzione (che definiva la Messa come "sinassi" più che come sacrificio), notando che fu ritrattato pochi mesi dopo la promulgazione — un caso, a suo giudizio, più unico che raro nella storia dei pronunciamenti magisteriali. Vedi anche la nota analoga su [[CV2 - Sacrosanctum Concilium]] sulla fedeltà pratica della riforma al testo conciliare. Lettura minoritaria/tradizionalista, da soppesare con la Nota orientativa (p. Cavalcoli) inclusa nella stessa edizione del libro.
 
 ## Fonte
 

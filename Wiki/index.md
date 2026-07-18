@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-18 | Total pages: 195 | Sources ingested: 155
+Last updated: 2026-07-18 | Total pages: 202 | Sources ingested: 156
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -56,6 +56,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Instaurare Omnia in Christo]] — motto programmatico del pontificato di Pio X (status: developing)
 - [[Azione Cattolica]] — dottrina dell'associazionismo laicale, subordinazione all'autorità ecclesiastica (status: developing)
 - [[Modernismo]] — condanna dottrinale, Giuramento Antimodernista, Consigli di Vigilanza (status: developing)
+- [[Pirronismo]] — negazione della capacità conoscitiva umana di raggiungere il vero (R. Amerio) (status: developing)
+- [[Mobilismo]] — primato del divenire sull'essere nella teologia postconciliare (R. Amerio) (status: developing)
+- [[Morale di Situazione]] — coscienza creatrice della norma anziché ricognitiva; globalità e gradualità (R. Amerio) (status: developing)
+- [[Cristianesimo Secondario]] — accogliere il Cristianesimo solo per i suoi effetti civilizzatori (R. Amerio) (status: developing)
+- [[Desistenza dell'Autorità (Breviatio Manus)]] — lente critica di Amerio sul governo pastorale di Paolo VI (status: developing)
 
 ---
 
@@ -84,6 +89,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona, corpus completo (status: mature)
 - [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo (status: mature)
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA (status: developing)
+- [[Romano Amerio]] — filosofo laico (1905–1997), critico tradizionalista del postconcilio, autore di *Iota Unum* (status: developing)
 
 ---
 
@@ -165,6 +171,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Paolo VI - Evangelii Nuntiandi]] — 1975-12-08 | evangelizzazione nel mondo contemporaneo
 - (+ altri 9 documenti di Paolo VI — vedi [[Wiki/sources/_index]])
 - [[Giovanni Paolo II - Redemptor Hominis]] — 1979-03-04 | prima enciclica, cristocentrismo
+- [[Romano Amerio - Iota Unum]] — 1985 | critica tradizionalista del Concilio e del postconcilio (commentario, non fonte magisteriale)
 - [[Giovanni Paolo II - Redemptoris Mater]] — 1987-03-25 | enciclica mariana
 - [[Giovanni Paolo II - Fidei Depositum]] — 1992-10-11 | promulgazione del Catechismo della Chiesa Cattolica
 - [[Catechismo della Chiesa Cattolica (S. Giovanni Paolo II)]] — 1992-10-11 | sintesi organica della dottrina cattolica

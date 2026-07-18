@@ -43,6 +43,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 - [[Catechismo della Dottrina Cristiana (S. Pio X)]] — 1905/1912 | catechismo Q&A della diocesi di Roma | 9 wiki pages created
 - [[Catechismo Maggiore (S. Pio X)]] — 1905 | versione estesa del catechismo, con Breve storia della religione
+- [[Romano Amerio - Iota Unum]] — 1985 | critica tradizionalista del Concilio Vaticano II e del postconcilio — **commentario, non fonte magisteriale** | 7 wiki pages created
 
 ## Encicliche e lettere pontificie
 

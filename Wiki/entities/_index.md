@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Entities Index"
-updated: 2026-04-07
+updated: 2026-07-18
 tags:
   - meta
   - index
@@ -37,6 +37,7 @@ All entity pages — people, organizations, products, and tools.
 - [[Benedetto XVI]] — Papa (2005–2013), ermeneutica della continuità, discorso di Ratisbona, rinuncia al pontificato, corpus completo
 - [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA
+- [[Romano Amerio]] — filosofo laico (1905–1997), critico tradizionalista del postconcilio, autore di *Iota Unum*
 
 ---
 
