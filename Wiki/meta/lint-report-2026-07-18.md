@@ -66,3 +66,7 @@ Not run. `scripts/tiling-check.py` requires Unix `fcntl`/`python3`, unavailable 
 ## Conclusion
 
 The 43-document recovery batch introduced zero new lint issues. The vault's manifest, address counter, and cross-reference discipline held up correctly across a 10-agent parallel write (5 pontificate-level + 5 chronological Giovanni Paolo II sub-batches) with strict file-boundary rules. All pontificates from Pio X through Leone XIV are now complete in the wiki with no remaining blocked or corrupted source documents.
+
+## Addendum (same day, re-run after Redemptoris Mater)
+
+Re-ran the full check after ingesting [[Giovanni Paolo II - Redemptoris Mater]] (c-000208), the vault's last known content gap (absent, not blocked — see [[log]]). 215 pages scanned: 0 address collisions, 0 bad formats, 0 counter drift (counter now 209), 0 manifest mismatches in either direction (155 sources / 190 address_map), 0 orphans, complete frontmatter on the new page. Raw dead-link count moved 180→188 only because this report's own "Dead Links" section, once written, started citing the same pre-existing template-placeholder examples about itself — not a new issue. The vault now has zero known content gaps across every ingested pontificate.
