@@ -21,6 +21,15 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## [2026-07-18] wiki-lint | Lint pass post-Iota Unum + fix di una refusa preesistente
+- Report: [[lint-report-2026-07-18b]]
+- Eseguito su richiesta dell'utente ("lint the wiki") subito dopo l'ingest di [[Romano Amerio - Iota Unum]] (vedi voce precedente).
+- Il batch Iota Unum stesso non ha introdotto alcun problema: 232 pagine scansionate, 0 collisioni di indirizzo, 0 disallineamenti manifest, 0 pagine orfane, 0 lacune di frontmatter, 0 dead link sulle 7 nuove pagine.
+- Trovato un problema genuino ma **preesistente e non collegato** al batch odierno: [[Giovanni Paolo II - Sollicitudo Rei Socialis]] (c-000192) aveva un refuso nel **nome del file** ("Sollecitudo" invece del corretto latino "Sollicitudo"), mentre titolo in frontmatter e H1 usavano già la grafia corretta — causando 2 dead link genuini (da [[Giovanni Paolo II - Centesimus Annus]] e [[Giovanni Paolo II - Redemptoris Missio]], che linkavano già alla grafia corretta).
+- Su conferma dell'utente, corretto: rinominato il file via `git mv`, aggiornati i riferimenti in [[Wiki/sources/_index]] e [[Giovanni Paolo II]] (4 occorrenze), aggiornata la chiave `address_map` nel manifest (indirizzo c-000192 invariato), aggiornato l'arco della dottrina sociale in [[hot]]. Lasciati intatti il file sorgente immutabile in `.raw/` (che mantiene lo stesso refuso nel proprio nome) e le due voci storiche in [[log]] (append-only, mai modificato).
+- Bug nel proprio script di lint ad-hoc di questa sessione (non nel vault): un primo passaggio segnalava falsamente 139 "sezioni vuote" per un mancato trattamento CRLF e per non riconoscere le intestazioni-contenitore seguite solo da sottosezioni; corretto durante la sessione, portando il conteggio reale a 2 (entrambe intestazioni-placeholder intenzionali negli `_index.md`).
+- Semantic tiling non eseguito (stessa limitazione nota: `python3` assente su questo Windows).
+
 ## [2026-07-18] ingest | Romano Amerio - Iota Unum (commentario critico tradizionalista)
 - L'utente ha segnalato di aver "già ingerito" *Iota Unum* di R. Amerio; verifica ha mostrato che il file esisteva in `.raw/` (epub, 4,9 MB) ma **non compariva né nel manifest né in nessuna pagina wiki dedicata** — solo tre menzioni di passaggio preesistenti ([[overview]], [[Chiesa Cattolica]], [[Leone XIII - Libertas]]), inclusa una nota-gap che ne anticipava esplicitamente l'ingestione futura.
 - Su richiesta dell'utente, ingerita come **commentario/critica tradizionalista**, non come fonte magisteriale — distinta esplicitamente dalle encicliche e dai documenti conciliari del corpus tramite tag (`commentario`, `critica-tradizionalista`) e callout `[!note]` dedicati su ogni pagina nuova.

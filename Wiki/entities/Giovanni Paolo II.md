@@ -21,7 +21,7 @@ related:
   - "[[Giovanni Paolo II - Laborem Exercens]]"
   - "[[Giovanni Paolo II - Familiaris Consortio]]"
   - "[[Giovanni Paolo II - Dominum et Vivificantem]]"
-  - "[[Giovanni Paolo II - Sollecitudo Rei Socialis]]"
+  - "[[Giovanni Paolo II - Sollicitudo Rei Socialis]]"
   - "[[Giovanni Paolo II - Mulieris Dignitatem]]"
   - "[[Giovanni Paolo II - Christifideles Laici]]"
   - "[[Giovanni Paolo II - Redemptoris Missio]]"
@@ -63,7 +63,7 @@ Karol Wojtyła (1920–2005), arcivescovo di Cracovia, eletto papa il 16 ottobre
 | 1986-04-24 | [[Giovanni Paolo II - Spirituali Militum Curae]] | riforma della cura pastorale dei militari |
 | 1986-05-18 | [[Giovanni Paolo II - Dominum et Vivificantem]] | terza enciclica trinitaria, lo Spirito Santo |
 | 1987-03-25 | [[Giovanni Paolo II - Redemptoris Mater]] | enciclica mariana, Maria "precede" il cammino di fede della Chiesa |
-| 1987-12-30 | [[Giovanni Paolo II - Sollecitudo Rei Socialis]] | enciclica sociale, 20° di Populorum Progressio, "strutture di peccato" |
+| 1987-12-30 | [[Giovanni Paolo II - Sollicitudo Rei Socialis]] | enciclica sociale, 20° di Populorum Progressio, "strutture di peccato" |
 | 1988-08-15 | [[Giovanni Paolo II - Mulieris Dignitatem]] | lettera sulla dignità e vocazione della donna |
 | 1988-12-30 | [[Giovanni Paolo II - Christifideles Laici]] | esortazione sui fedeli laici |
 | 1990-12-07 | [[Giovanni Paolo II - Redemptoris Missio]] | enciclica sull'attività missionaria ad gentes |
@@ -91,7 +91,7 @@ Il pontificato di Wojtyła, ora ingerito nella sua quasi totalità, si articola 
 
 **La trilogia trinitaria d'apertura, con coronamento mariano**: [[Giovanni Paolo II - Redemptor Hominis|Redemptor Hominis]] (1979, sul Figlio, con la tesi programmatica "l'uomo è la via della Chiesa"), [[Giovanni Paolo II - Dives in Misericordia|Dives in Misericordia]] (1980, sul Padre, la misericordia come "fonte più profonda della giustizia") e [[Giovanni Paolo II - Dominum et Vivificantem|Dominum et Vivificantem]] (1986, sullo Spirito Santo, letto nel discorso di addio giovanneo) formano un ciclo esplicitamente concepito come tale — cristocentrismo, paternità misericordiosa e azione pneumatologica come tre volti complementari dello stesso mistero — e pongono le fondamenta antropologico-teologiche dell'intero magistero successivo. [[Giovanni Paolo II - Redemptoris Mater|Redemptoris Mater]] (1987) segue a distanza di un anno da *Dominum et Vivificantem* come sviluppo mariano della stessa trilogia: Maria "precede" il pellegrinaggio di fede della Chiesa, e la sua mediazione — sempre "partecipata", mai autonoma rispetto all'unica mediazione di Cristo — offre la sintesi mariologica dell'intero impianto trinitario-antropologico degli anni '80.
 
-**La trilogia sociale**: [[Giovanni Paolo II - Laborem Exercens|Laborem Exercens]] (1981, 90° di Rerum Novarum, priorità del lavoro sul capitale), [[Giovanni Paolo II - Sollecitudo Rei Socialis|Sollecitudo Rei Socialis]] (1987, 20° di Populorum Progressio, le "strutture di peccato" e il rifiuto esplicito di ogni "terza via" tra capitalismo e collettivismo) e [[Giovanni Paolo II - Centesimus Annus|Centesimus Annus]] (1991, centenario di Rerum Novarum, letto alla luce del crollo dei regimi comunisti del 1989-90, con la distinzione tra "economia d'impresa" legittima e capitalismo assoluto illegittimo) costituiscono insieme il più ampio corpus sociale di un singolo pontificato, in continuità diretta con [[Leone XIII - Rerum Novarum|Rerum Novarum]] e [[Paolo VI - Populorum Progressio|Populorum Progressio]].
+**La trilogia sociale**: [[Giovanni Paolo II - Laborem Exercens|Laborem Exercens]] (1981, 90° di Rerum Novarum, priorità del lavoro sul capitale), [[Giovanni Paolo II - Sollicitudo Rei Socialis|Sollicitudo Rei Socialis]] (1987, 20° di Populorum Progressio, le "strutture di peccato" e il rifiuto esplicito di ogni "terza via" tra capitalismo e collettivismo) e [[Giovanni Paolo II - Centesimus Annus|Centesimus Annus]] (1991, centenario di Rerum Novarum, letto alla luce del crollo dei regimi comunisti del 1989-90, con la distinzione tra "economia d'impresa" legittima e capitalismo assoluto illegittimo) costituiscono insieme il più ampio corpus sociale di un singolo pontificato, in continuità diretta con [[Leone XIII - Rerum Novarum|Rerum Novarum]] e [[Paolo VI - Populorum Progressio|Populorum Progressio]].
 
 **Famiglia, donna e laicato**: [[Giovanni Paolo II - Familiaris Consortio|Familiaris Consortio]] (1981, i quattro compiti della famiglia, riconferma di Humanae Vitae, gestione pastorale delle "situazioni irregolari"), [[Giovanni Paolo II - Mulieris Dignitatem|Mulieris Dignitatem]] (1988, dignità della donna fondata sull'uguaglianza radicale della *communio personarum* e sull'antitesi Eva-Maria) e [[Giovanni Paolo II - Christifideles Laici|Christifideles Laici]] (1988, esortazione post-sinodale sui laici, strutturata sull'immagine della vite e dei tralci) sviluppano insieme un'antropologia della vocazione secolare e coniugale che prepara direttamente [[Giovanni Paolo II - Mulieris Dignitatem|Mulieris Dignitatem]] come riflessione previa al Sinodo dei laici.
 
