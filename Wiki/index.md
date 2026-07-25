@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Wiki Index
-updated: 2026-07-18
+updated: 2026-07-25
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-18 | Total pages: 202 | Sources ingested: 156
+Last updated: 2026-07-25 | Total pages: 221 | Sources ingested: 174
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -61,6 +61,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Morale di Situazione]] — coscienza creatrice della norma anziché ricognitiva; globalità e gradualità (R. Amerio) (status: developing)
 - [[Cristianesimo Secondario]] — accogliere il Cristianesimo solo per i suoi effetti civilizzatori (R. Amerio) (status: developing)
 - [[Desistenza dell'Autorità (Breviatio Manus)]] — lente critica di Amerio sul governo pastorale di Paolo VI (status: developing)
+- [[Mito del Complotto Giudaico-Massonico]] — teoria cospirazionista antisemita ottocentesca, ripudiata da Nostra Aetate (status: developing)
+- [[Alta Vendita (documenti)]] — documenti carbonari di autenticità storicamente contestata, citati da Delassus (status: developing)
 
 ---
 
@@ -90,6 +92,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo (status: mature)
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA (status: developing)
 - [[Romano Amerio]] — filosofo laico (1905–1997), critico tradizionalista del postconcilio, autore di *Iota Unum* (status: developing)
+- [[Henri Delassus]] — sacerdote francese (1836–1921), autore di letteratura cospirazionista e antisemita (status: developing)
+- [[René-François Rohrbacher]] — sacerdote e storico ecclesiastico francese (1789–1856), autore della *Storia Universale della Chiesa Cattolica* (status: mature)
 
 ---
 
@@ -173,6 +177,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Giovanni Paolo II - Redemptor Hominis]] — 1979-03-04 | prima enciclica, cristocentrismo
 - [[Romano Amerio - Iota Unum]] — 1985 | critica tradizionalista del Concilio e del postconcilio (commentario, non fonte magisteriale)
 - [[Giovanni Paolo II - Redemptoris Mater]] — 1987-03-25 | enciclica mariana
+- [[Henri Delassus - Il Problema dell'Ora Presente]] — 1907 | ⚠️ letteratura antisemita e cospirazionista (documento storico, non fonte affidabile)
+- [[R. F. Rohrbacher - Storia Universale della Chiesa Cattolica]] — 1842-1849 (trad. it.) | storia della Chiesa dalla creazione al 1860, 16 volumi, trattamento strutturale/di catalogazione — vedi [[Wiki/sources/_index]] per tutti i 16 volumi
 - [[Giovanni Paolo II - Fidei Depositum]] — 1992-10-11 | promulgazione del Catechismo della Chiesa Cattolica
 - [[Catechismo della Chiesa Cattolica (S. Giovanni Paolo II)]] — 1992-10-11 | sintesi organica della dottrina cattolica
 - [[Giovanni Paolo II - Veritatis Splendor]] — 1993-08-06 | teologia morale fondamentale

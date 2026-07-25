@@ -1,7 +1,8 @@
 ---
 type: meta
 title: "Entities Index"
-updated: 2026-07-18
+updated: 2026-07-25
+
 tags:
   - meta
   - index
@@ -38,6 +39,8 @@ All entity pages — people, organizations, products, and tools.
 - [[Francesco]] — Papa (2013–2025), Lumen Fidei, Dilexit Nos, ecologia integrale, corpus completo
 - [[Leone XIV]] — Papa (dal 2024/2025), Magnifica Humanitas, dottrina sociale nell'era dell'IA
 - [[Romano Amerio]] — filosofo laico (1905–1997), critico tradizionalista del postconcilio, autore di *Iota Unum*
+- [[Henri Delassus]] — sacerdote francese (1836–1921), autore di letteratura cospirazionista e antisemita ⚠️
+- [[René-François Rohrbacher]] — sacerdote e storico ecclesiastico francese (1789–1856), autore della *Storia Universale della Chiesa Cattolica* (16 volumi)
 
 ---
 

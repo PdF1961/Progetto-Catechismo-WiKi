@@ -3,7 +3,7 @@ type: source
 title: "Nostra Aetate"
 address: c-000105
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - dottrina
   - source
@@ -14,6 +14,8 @@ related:
   - "[[CV2 - Lumen Gentium]]"
   - "[[Pio XI - Mortalium Animos]]"
   - "[[Chiesa Cattolica]]"
+  - "[[Henri Delassus - Il Problema dell'Ora Presente]]"
+  - "[[Mito del Complotto Giudaico-Massonico]]"
 sources:
   - "[[.raw/CV2 - Nostra Aetate.pdf]]"
 source_type: conciliar declaration
@@ -57,6 +59,9 @@ Chiude fondando il rifiuto di ogni discriminazione — razziale, sociale, religi
 ## Perché è rilevante
 
 Rappresenta un cambio di paradigma nei rapporti tra la Chiesa e le altre religioni rispetto all'atteggiamento prevalentemente difensivo/apologetico dei documenti pontifici precedenti — si confronti con [[Pio XI - Mortalium Animos]] (1928), che condannava il movimento pancristiano insistendo sull'impossibilità di un dialogo alla pari con le confessioni non cattoliche. *Nostra Aetate* non ritratta il primato dottrinale di Cristo e della Chiesa (riaffermato esplicitamente), ma inaugura un registro di stima e dialogo con le religioni non cristiane che diventerà la base di tutta la successiva teologia cattolica delle religioni e del dialogo interreligioso, inclusi gli incontri di Assisi sotto Giovanni Paolo II. La sezione sull'ebraismo, in particolare, costituisce la base dottrinale della trasformazione dei rapporti cattolico-ebraici nel secondo Novecento.
+
+> [!contradiction] Ripudio dell'antisemitismo cattolico ottocentesco
+> Il n. 4 di questo documento — in particolare il rigetto della colpa collettiva ebraica per la Passione e la condanna dell'antisemitismo "in ogni tempo e da chiunque" — costituisce la risposta dottrinale definitiva a un filone reale del cattolicesimo controrivoluzionario di fine Ottocento/inizio Novecento, documentato in questo vault in [[Henri Delassus - Il Problema dell'Ora Presente]] (1907): un'opera che presenta "gli Ebrei" come collettività responsabile di un complotto di dominio mondiale, arrivando a definire il "delitto de' Giudei" come "un secondo peccato originale su questa razza". *Nostra Aetate* non è quindi solo sviluppo dottrinale in astratto, ma correzione esplicita, sessant'anni dopo, di posizioni realmente diffuse e pubblicate con Imprimatur ecclesiastico. Vedi anche [[Mito del Complotto Giudaico-Massonico]].
 
 ## Fonte
 

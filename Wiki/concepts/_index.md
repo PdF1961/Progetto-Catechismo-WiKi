@@ -61,3 +61,5 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[Morale di Situazione]] — coscienza creatrice della norma anziché ricognitiva; include globalità e gradualità (status: developing)
 - [[Cristianesimo Secondario]] — accogliere il Cristianesimo solo per i suoi effetti civilizzatori (status: developing)
 - [[Desistenza dell'Autorità (Breviatio Manus)]] — lente critica sul governo pastorale di Paolo VI (status: developing)
+- [[Mito del Complotto Giudaico-Massonico]] — teoria cospirazionista antisemita ottocentesca, ripudiata da Nostra Aetate ⚠️ (status: developing)
+- [[Alta Vendita (documenti)]] — documenti carbonari di autenticità storicamente contestata ⚠️ (status: developing)

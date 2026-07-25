@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Sources Index
-updated: 2026-07-18
+updated: 2026-07-25
 tags:
   - meta
   - index
@@ -44,6 +44,8 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[Catechismo della Dottrina Cristiana (S. Pio X)]] — 1905/1912 | catechismo Q&A della diocesi di Roma | 9 wiki pages created
 - [[Catechismo Maggiore (S. Pio X)]] — 1905 | versione estesa del catechismo, con Breve storia della religione
 - [[Romano Amerio - Iota Unum]] — 1985 | critica tradizionalista del Concilio Vaticano II e del postconcilio — **commentario, non fonte magisteriale** | 7 wiki pages created
+- [[Henri Delassus - Il Problema dell'Ora Presente]] — 1907 | ⚠️ **letteratura antisemita e cospirazionista — documento storico primario, non fonte affidabile** | 4 wiki pages created
+- [[R. F. Rohrbacher - Storia Universale della Chiesa Cattolica]] — 1842-1849 (trad. it. Marietti) | storia della Chiesa dalla creazione del mondo al 1860, 16 volumi, **trattamento strutturale/di catalogazione** (una pagina per volume) data la mole (13.377 pagine) | pagina-collezione + 16 pagine-volume
 
 ## Encicliche e lettere pontificie
 

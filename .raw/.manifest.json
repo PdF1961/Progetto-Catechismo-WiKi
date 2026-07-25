@@ -1923,6 +1923,162 @@
         "wiki/sources/Paolo VI - Missale Romanum.md",
         "wiki/sources/Leone XIII - Libertas.md"
       ]
+    },
+    ".raw/H. Delassus - Il Problema dell'Ora Presente 1.pdf": {
+      "hash": "328f891ba02acf80568ea8b8f3015bbc",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Henri Delassus - Il Problema dell'Ora Presente.md",
+        "wiki/entities/Henri Delassus.md",
+        "wiki/concepts/Alta Vendita (documenti).md",
+        "wiki/concepts/Mito del Complotto Giudaico-Massonico.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/CV2 - Nostra Aetate.md"
+      ]
+    },
+    ".raw/H. Delassus - Il Problema dell'Ora Presente 2.pdf": {
+      "hash": "57c1f6a1642676bd42d6dbbea630f913",
+      "ingested_at": "2026-07-18",
+      "pages_created": [
+        "wiki/sources/Henri Delassus - Il Problema dell'Ora Presente.md",
+        "wiki/entities/Henri Delassus.md",
+        "wiki/concepts/Alta Vendita (documenti).md",
+        "wiki/concepts/Mito del Complotto Giudaico-Massonico.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/CV2 - Nostra Aetate.md"
+      ]
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 10.pdf": {
+      "hash": "29424825beb3c7b7e8fe63856c188810",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 10.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 11.pdf": {
+      "hash": "98aa52a04769beca117bb1f16f0c15a7",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 11.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 12.pdf": {
+      "hash": "b41a7a9974cae73b834b4fe7d4ed936c",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 12.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 13.pdf": {
+      "hash": "f83143de221873a89b3443f294acc268",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 13.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 14.pdf": {
+      "hash": "50e47d9fe0019aeb1a173de9fbe93e9d",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 14.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 15.pdf": {
+      "hash": "0bf39fb7af61d2b5b1acb877dc186c26",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 15.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 16.pdf": {
+      "hash": "09b4a78601443128863f0b6928054fae",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 16.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 01.pdf": {
+      "hash": "113a8efd56d8a81152366ce966f807ef",
+      "ingested_at": "2026-07-19",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 01.md",
+        "wiki/sources/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica.md",
+        "wiki/entities/René-François Rohrbacher.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 02.pdf": {
+      "hash": "a93ffc5c6e79e0dc6d79eb5ba41b1e3f",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 02.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 03.pdf": {
+      "hash": "e5d69a8dba334a8165e1d3d77816d6af",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 03.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 04.pdf": {
+      "hash": "a56bdd1eb24257bc9f5db7721a185637",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 04.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 05.pdf": {
+      "hash": "8d9bb33297b02fb93fcc4268af0dbdd5",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 05.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 06.pdf": {
+      "hash": "c65528285b37776fe3ece6460cb9adb2",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 06.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 07.pdf": {
+      "hash": "7c5828dfb215ee60dd0d4387b3ff5eda",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 07.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 08.pdf": {
+      "hash": "f0d890d6030813618fa0c23231a2f170",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 08.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 09.pdf": {
+      "hash": "688a910b5c52216b8f47650e038e753c",
+      "ingested_at": "2026-07-25",
+      "pages_created": [
+        "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 09.md"
+      ],
+      "pages_updated": []
     }
   },
   "address_map": {
@@ -2122,6 +2278,28 @@
     "wiki/concepts/Morale di Situazione.md": "c-000213",
     "wiki/concepts/Cristianesimo Secondario.md": "c-000214",
     "wiki/concepts/Desistenza dell'Autorità (Breviatio Manus).md": "c-000215",
-    "wiki/sources/Giovanni Paolo II - Sollicitudo Rei Socialis.md": "c-000192"
+    "wiki/sources/Giovanni Paolo II - Sollicitudo Rei Socialis.md": "c-000192",
+    "wiki/sources/Henri Delassus - Il Problema dell'Ora Presente.md": "c-000217",
+    "wiki/entities/Henri Delassus.md": "c-000216",
+    "wiki/concepts/Alta Vendita (documenti).md": "c-000218",
+    "wiki/concepts/Mito del Complotto Giudaico-Massonico.md": "c-000219",
+    "wiki/sources/R. F. Rohrbacher - Storia Universale della Chiesa Cattolica.md": "c-000221",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 01.md": "c-000222",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 02.md": "c-000223",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 03.md": "c-000224",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 04.md": "c-000225",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 05.md": "c-000226",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 06.md": "c-000227",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 07.md": "c-000228",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 08.md": "c-000229",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 09.md": "c-000230",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 10.md": "c-000231",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 11.md": "c-000232",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 12.md": "c-000233",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 13.md": "c-000234",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 14.md": "c-000235",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 15.md": "c-000236",
+    "wiki/sources/Rohrbacher - Storia Universale della Chiesa Cattolica - Volume 16.md": "c-000237",
+    "wiki/entities/René-François Rohrbacher.md": "c-000238"
   }
 }
