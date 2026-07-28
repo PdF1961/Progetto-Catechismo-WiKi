@@ -66,6 +66,15 @@ EXCLUDE_FILENAMES = {
 }
 EXCLUDE_PATH_PREFIXES = ("wiki/folds/", "wiki/meta/")
 MAX_BODY_BYTES = 128 * 1024
+# nomic-embed-text's *served* context is hard-capped at 2048 tokens
+# regardless of num_ctx (per-request, /api/embed, and OLLAMA_CONTEXT_LENGTH
+# were all tried and ignored -- known upstream issue, ollama/ollama#7741).
+# Empirically ~2.9 chars/token for this vault's mixed IT/EN technical prose;
+# 5000 chars stayed under the cap for every page that previously failed,
+# with margin. Embed only the leading MAX_EMBED_CHARS of the body instead
+# of silently dropping (500) or silently truncating server-side (/api/embed
+# does this with no error) pages that exceed it.
+MAX_EMBED_CHARS = 5000
 SCALE_WARN_PAGES = 500
 SCALE_HARD_FAIL_PAGES = 5000
 
@@ -296,6 +305,7 @@ def run_check(
         scanned = 0
         computed = 0
         cached_hits = 0
+        truncated = 0
         skipped_counts: dict[str, int] = {}
         live_paths: set[str] = set()
 
@@ -342,8 +352,11 @@ def run_check(
                 pages.append((rel, entry["embedding"]))
                 cached_hits += 1
                 continue
+            embed_text = body[:MAX_EMBED_CHARS]
+            if len(body) > MAX_EMBED_CHARS:
+                truncated += 1
             try:
-                emb = embed(body, model, ollama_url)
+                emb = embed(embed_text, model, ollama_url)
             except Exception as exc:
                 log(f"ERR embedding {rel}: {exc}")
                 skipped_counts["embed_error"] = skipped_counts.get("embed_error", 0) + 1
@@ -397,6 +410,13 @@ def run_check(
     if skipped_counts:
         out_lines.append("- skipped reasons: " + ", ".join(f"{k}={v}" for k, v in sorted(skipped_counts.items())))
     out_lines.append(f"- cache hits: {cached_hits}; recomputed: {computed}; orphans pruned: {len(orphans)}")
+    if truncated:
+        out_lines.append(
+            f"- truncated for embedding: {truncated} page(s) exceeded MAX_EMBED_CHARS "
+            f"({MAX_EMBED_CHARS} chars) and were compared on their leading section only "
+            f"-- nomic-embed-text's served context is hard-capped at 2048 tokens "
+            f"(ollama/ollama#7741); full body is still hashed for cache invalidation"
+        )
     out_lines.append("")
     out_lines.append(f"## Errors (similarity >= {error_})")
     out_lines.append("")
