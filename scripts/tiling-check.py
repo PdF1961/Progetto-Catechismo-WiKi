@@ -27,7 +27,6 @@ Usage:
 """
 
 import argparse
-import fcntl
 import hashlib
 import json
 import math
@@ -39,6 +38,13 @@ import urllib.parse
 import urllib.request
 from datetime import datetime
 from pathlib import Path
+
+# File locking is not portable: POSIX uses fcntl.flock, Windows uses
+# msvcrt.locking. Both are stdlib but mutually exclusive imports.
+if os.name == "nt":
+    import msvcrt
+else:
+    import fcntl
 
 DEFAULT_OLLAMA_URL = "http://127.0.0.1:11434"
 DEFAULT_MODEL = "nomic-embed-text"
@@ -164,7 +170,16 @@ def _lock_cache():
     META_DIR.mkdir(exist_ok=True)
     fd = os.open(str(CACHE_LOCK), os.O_CREAT | os.O_RDWR, 0o644)
     try:
-        fcntl.flock(fd, fcntl.LOCK_EX)
+        if os.name == "nt":
+            # msvcrt.locking locks a byte range starting at the current
+            # file position; it errors if that byte doesn't exist yet, so
+            # a freshly created empty lock file needs a byte written first.
+            if os.fstat(fd).st_size == 0:
+                os.write(fd, b"\0")
+            os.lseek(fd, 0, os.SEEK_SET)
+            msvcrt.locking(fd, msvcrt.LK_LOCK, 1)
+        else:
+            fcntl.flock(fd, fcntl.LOCK_EX)
     except OSError:
         os.close(fd)
         raise
@@ -173,7 +188,11 @@ def _lock_cache():
 
 def _unlock_cache(fd: int) -> None:
     try:
-        fcntl.flock(fd, fcntl.LOCK_UN)
+        if os.name == "nt":
+            os.lseek(fd, 0, os.SEEK_SET)
+            msvcrt.locking(fd, msvcrt.LK_UNLCK, 1)
+        else:
+            fcntl.flock(fd, fcntl.LOCK_UN)
     finally:
         os.close(fd)
 
