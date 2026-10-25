@@ -114,3 +114,6 @@ _attachments/
 # PDF di grandi dimensioni: mantenuti solo in locale, non versionati (vedi ADR-005)
 .raw/*.pdf
 
+
+# Cache Smart Connections: rigenerabile, esclusa dal versioning (ADR-005)
+.smart-env/
